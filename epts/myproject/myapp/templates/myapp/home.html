@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* CSS 스타일을 추가하여 텍스트 스타일링 및 중앙 정렬 수행 */
+        body {
+            font-size: 24px; /* 폰트 크기 조절 */
+            text-align: center; /* 가운데 정렬 */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 60vh; /* 화면 높이의 100%로 화면 중앙에 위치하도록 설정 */
+        }
+
+        /* 초록색 선 스타일 */
+        .green-line {
+            position: absolute;
+            bottom: 50%; /* 페이지 아래쪽 중앙에 위치하도록 설정 */
+            left: 10%;
+            right: 10%;
+            height: 2px;
+            background-color: green;
+        }
+
+        p {
+            line-height: 2; /* 원하는 줄 간격 설정 */
+            user-select: none; /* 텍스트 선택 비활성화 */
+        }
+
+        /* 버튼 스타일 */
+        .button-container {
+          position:absolute;
+          top: 60%;
+          left: 50%;
+          transform: translateX(-50%);
+        }
+
+        .button {
+          background-color: green;
+          color: white;
+          padding: 10px 20px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+          margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="green-line"></div>
+    <p>서울과학기술대학교<br>전자공학과<br>전력분석실</p>
+
+    
+    <!-- 버튼 추가 -->
+    <div class="button-container">
+      
+
+      <form method="get" action="{% url 'input_info' %}">
+        <button class="button">나의 정보 입력</button>
+      </form>
+      <br>
+      <form method="post" action="{% url 'find_similar_player' %}">
+        {% csrf_token %}
+        <button class="button">나와 닮은 선수 찾기</button>
+      </form>
+      <br>
+      {% if image_url %}
+        <img src="{{ image.url }}" alt="Generate_image">
+      {% endif %}
+      <form method="get" action="{% url 'compare_players' %}">
+        <button class="button">선수와 비교하기</button>
+      </form>
+    </div>
+
+</body>
+</html>
+
+
+

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- 필요한 스타일 및 헤더 정보 추가 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+    $(document).ready(function () {
+        // 클릭 이벤트를 감지하여 선택한 선수 이름을 서버로 전송
+        $('.select-player').click(function (event) {
+            event.preventDefault(); // 기본 링크 동작 방지
+
+            // 선택한 선수의 이름을 가져오기
+            var selectedPlayer = $(this).data('player');
+
+            // 서버로 데이터를 POST 요청
+            $.ajax({
+                type: 'POST', // POST 요청
+                url: '/compare_players/', // 서버 URL (views.py의 URL 패턴에 맞게 설정)
+                data: {
+                    selected_player_name: selectedPlayer,
+                    csrfmiddlewaretoken: '{{ csrf_token }}' // CSRF 토큰 추가
+                },
+                success: function (response) {
+                    window.location.href = '/compare_result/';
+                },
+                error: function (error) {
+                    console.log(error); // 오류 시 동작
+                }
+            });
+        });
+    });
+</script>
+
+</head>  
+  </head>
+<body>
+    <h1>선수 검색</h1>
+    <!-- 비교 결과를 여기에 출력 -->
+    <a href="{% url 'home' %}" style="position: absolute; top: 10px; right: 10px; font-size: 24px; text-decoration: none; color: #333;">
+      <i class="fas fa-home"></i> <!-- FontAwesome 아이콘 -->
+    </a>
+    
+    <form method="get" action="{% url 'compare_players' %}">
+      <input type="text" name="search_query" placeholder="선수 이름을 입력하세요">
+      <button type="submit">검색</button>
+    </form>
+
+
+  <ul>
+    {% for player in filtered_data.Name|slice:":10" %}
+        <li>
+          <a href="#" class="select-player" data-player="{{ player }}">{{ player }}</a>
+      </li>
+    {% empty %}
+        <li>검색 결과가 없습니다.</li>
+    {% endfor %}
+</ul>
+
+
+</body>
+</html>
