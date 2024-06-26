@@ -1,0 +1,169 @@
+,name,age,position1,position2,Apps,Mins,Tackles,Inter,Clear,Blocks,Rating,WC_Rating,Country
+0,Salif Sané ,32, D(C),DMC,32,2880,1.8,1.8,7.3,0.9,7.34,6.79,Senegal
+1,Mats Hummels ,33, D(C),,25(1),2213,2.4,2.1,2.2,0.5,7.27,7.05,Germany
+2,Joshua Kimmich ,27, D(CR),DMC,26(3),2334,1.1,0.7,1.1,0.2,7.23,6.87,Germany
+3,Jérôme Boateng ,34, D(CR),,19,1644,1.4,1.1,2.6,0.6,7.14,6.4,Germany
+4,Benjamin Pavard ,26, D(CLR),M(R),34,3060,1.6,2.1,5.4,1,7.1,7.08,France
+5,Jonas Hector ,32, D(L),M(CL),20,1761,2.4,1.4,2.5,0.3,7,6.92,Germany
+6,Corentin Tolisso ,28, D(R),M(CR),17(9),1529,1.3,0.6,0.3,0.1,6.99,6.42,France
+7,Niklas Süle ,27, D(CR),,20(7),1919,1.3,1.2,2,0.6,6.9,6.57,Germany
+8,Marvin Plattenhardt ,30, D(L),M(L),33,2970,1.7,0.8,2.2,0.2,6.85,6.27,Germany
+9,Sebastian Rudy ,32, D(R),M(CR),16(9),1509,2,0.7,0.2,0,6.84,6.27,Germany
+10,Ludwig Augustinsson ,28, D(L),M(L),29,2535,1.6,1.3,1.5,0.1,6.73,6.81,Sweden
+11,Denis Zakaria ,25, D(C),DMC,29(1),2308,2.5,1.5,1.2,0.3,6.73,6.21,Switzerland
+12,Steven Zuber ,31, D(L),M(CLR),17(3),1441,2,0.9,1.1,0.2,6.7,6.78,Switzerland
+13,Carlos Salcedo ,29, D(CR),,17(3),1608,1.3,1.1,4.4,0.6,6.68,6.7,Mexico
+14,Fernandinho ,37, D(CR),DMC,33(1),2885,1.8,1.4,1.9,0.2,7.44,6.31,Brazil
+15,Jan Vertonghen ,35, D(CL),,36,3205,1.8,1.7,4.7,0.3,7.26,6.88,Belgium
+16,Phil Jones ,30, D(CR),DMC,23,1975,1.1,1.8,5.6,0.7,7.21,6.48,England
+17,Fabian Delph ,32, D(L),M(CL),21(1),1746,2.1,1.4,1.6,0,7.16,6.53,England
+18,Nicolás Otamendi ,34, D(C),,33(1),2968,1.7,1.4,3.6,0.3,7.13,6.98,Argentina
+19,Ashley Young ,37, D(LR),M(LR),28(2),2448,1.8,1.9,2.4,0.2,7.12,6.8,England
+20,Harry Maguire ,29, D(C),,38,3420,1.7,1.3,4.6,0.7,7.08,7.22,England
+21,Kyle Walker ,32, D(CR),M(R),32,2787,1.5,0.9,2.1,0.1,7.05,7.01,England
+22,Vincent Kompany ,36, D(C),,17,1397,1.2,0.9,4.2,0.5,7.04,6.71,Belgium
+23,Kieran Trippier ,32, D(LR),M(R),21(3),1914,2.2,0.8,1.9,0.3,7.04,8.03,England
+24,Granit Xhaka ,30, D(L),M(C),37(1),3266,2.1,1,1.7,0.2,7.02,6.84,Switzerland
+25,Trent Alexander-Arnold ,24, D(R),M(R),18(1),1576,1.9,1.5,2.1,0.3,7.02,6.66,England
+26,Dejan Lovren ,33, D(C),,24(5),2125,0.9,1.3,4.9,0.5,6.99,6.72,Croatia
+27,Ahmed Hegazy ,31, D(C),,38,3387,1.5,1.6,7.1,1,6.98,6.92,Egypt
+28,Eric Dier ,28, D(CR),DMC,32(2),2827,1.8,1.4,2.4,0.3,6.96,6.33,England
+29,Jordan Henderson ,32, D(C),M(CLR),25(2),2173,1.9,1.1,0.7,0.1,6.95,6.63,England
+30,Davinson Sánchez ,26, D(C),,29(2),2535,1.2,1.2,5.1,0.3,6.94,6.95,Colombia
+31,Antonio Rüdiger ,29, D(CR),,25(2),2336,1.1,0.9,3.7,0.6,6.92,6.67,Germany
+32,Danilo ,31, D(CLR),DMC,13(10),1342,1.9,0.8,1.2,0.3,6.91,6.58,Brazil
+33,John Stones ,28, D(CR),,16(2),1306,0.8,1.1,2.3,0.3,6.89,7.28,England
+34,Gary Cahill ,36, D(C),,24(3),2084,1.1,1,4.6,0.5,6.87,7.02,England
+35,Maya Yoshida ,34, D(CR),,23(1),2051,1.1,1.7,5.4,0.6,6.86,6.82,Japan
+36,Cheikhou Kouyaté ,32, D(CR),DMC,32(1),2803,2.2,1,1.5,0.3,6.8,6.29,Senegal
+37,Andreas Christensen ,26, D(C),DMC,23(4),2071,1,1.4,3.9,0.6,6.8,6.68,Denmark
+38,Zanka ,32, D(C),,38,3420,1.4,2,6.3,0.5,6.71,6.59,Denmark
+39,Toby Alderweireld ,33, D(CR),,13(1),1177,1.4,0.3,3.6,0.4,6.68,6.93,Belgium
+40,Victor Lindelöf ,28, D(CR),,13(4),1284,1,0.8,3.8,0.6,6.66,6.62,Sweden
+41,Filipe Luís ,37, D(L),,19(1),1660,4.2,1.8,1.6,0.4,7.45,7.09,Brazil
+42,Lucas Hernández ,26, D(CL),,24(3),2117,3.4,1.5,2.9,0.4,7.24,6.97,France
+43,Jordi Alba ,33, D(L),M(L),30(3),2745,1.9,2.1,1.5,0.2,7.22,6.66,Spain
+44,Gerard Piqué ,35, D(C),,29(1),2633,1,1,4.1,0.9,7.16,7.09,Spain
+45,Sime Vrsaljko ,30, D(LR),M(R),19(2),1697,2.3,1.7,2.6,0.4,7.09,7.03,Croatia
+46,Sergio Ramos ,36, D(CR),,26,2292,1.5,1.8,3.2,0.5,7.09,6.82,Spain
+47,Diego Godín ,36, D(C),,28(2),2554,1.7,2,4.7,0.7,7.07,7.28,Uruguay
+48,Marcelo ,34, D(L),M(L),26(2),2262,1.9,1.1,0.5,0.1,7.07,7.16,Brazil
+49,Daniel Carvajal ,30, D(R),,25,2223,2.4,1.5,1.4,0.6,7.06,6.73,Spain
+50,Samuel Umtiti ,28, D(CL),,24(1),2189,2,1.5,2.8,0.7,7.03,6.78,France
+51,Jefferson Lerma ,28, D(R),DMC,25(1),2138,2,1.9,1.4,0.4,6.99,6.22,Colombia
+52,José Giménez ,27, D(CR),,17(6),1684,1.7,1.3,4.2,0.7,6.95,7.52,Uruguay
+53,Andrés Guardado ,36, D(L),M(CL),25(4),2267,1.4,0.8,0.9,0.2,6.91,6.64,Mexico
+54,Lucas Vázquez ,31, D(R),M(R),16(17),1670,1.5,0.2,0.2,0.1,6.91,6.23,Spain
+55,Nacho ,32, D(CLR),,22(5),2073,2,1.7,1.8,0.3,6.9,7.21,Spain
+56,Celso Borges ,34, D(C),M(C),26(6),2307,1.9,1.1,1.1,0.2,6.89,6.77,Costa Rica
+57,Raphaël Varane ,29, D(C),,27,2324,1,1.2,4,0.4,6.85,7.14,France
+58,Fabian Schär ,30, D(C),,25,2220,2.4,1.8,5.6,0.8,6.82,6.79,Switzerland
+59,Simon Kjaer ,33, D(C),,18(2),1572,1.8,1.6,5.3,0.5,6.82,6.78,Denmark
+60,Gabriel Mercado ,35, D(CR),,25(1),2124,2.2,1.6,3,0.8,6.8,6.86,Argentina
+61,Johan Mojica ,30, D(L),M(L),22(8),2132,1.4,1.1,1,0.1,6.74,6.69,Colombia
+62,Thomas Vermaelen ,36, D(CL),,12(2),1018,0.9,1.3,2,0.2,6.73,6.33,Belgium
+63,Miguel Layún ,34, D(LR),M(CLR),11(5),1181,1.8,0.9,2.3,0.3,6.73,6.71,Mexico
+64,Carlos Sánchez ,36, D(C),M(C),13(1),1123,1.8,1.3,1.7,0.4,6.68,6.9,Uruguay
+0,Mathieu Debuchy ,37, D(CR),M(R),28(1),2494,3.3,2.4,4.8,0.4,7.44,7.4,France
+1,Fernandinho ,37, D(CR),DMC,29(4),2609,2.9,1.8,1.4,0.1,7.4,6.47,Brazil
+2,Martín Demichelis ,41, D(C),,27,2430,2,2.6,6.8,0.3,7.39,7.57,Argentina
+3,Dejan Lovren ,33, D(C),,31,2788,2,2.7,7.8,0.3,7.32,6.66,Croatia
+4,Patrice Evra ,41, D(CL),M(L),33,2884,2.4,1.5,5.5,0.2,7.32,7.25,France
+5,Laurent Koscielny ,37, D(C),,32,2742,1.7,2.8,7.3,0.7,7.32,6.8,France
+6,Gary Cahill ,36, D(C),,29(1),2623,1.1,1,6.8,0.7,7.29,7.21,England
+7,César Azpilicueta ,33, D(CLR),M(R),26(3),2325,3.4,1.7,4.8,0.3,7.26,6.44,Spain
+8,Phil Jones ,30, D(CR),DMC,26,2174,2.3,2,5.8,0.5,7.26,6.96,England
+9,Phil Jagielka ,40, D(CR),,26,2316,1.7,1.9,8.8,0.4,7.26,6.69,England
+10,Leighton Baines ,37, D(L),M(L),32,2840,2.9,1.1,2.5,0.2,7.25,6.64,England
+11,Pablo Zabaleta ,37, D(R),DMC,34(1),3079,3.4,2,2.5,0.3,7.25,7.06,Argentina
+12,Jordan Henderson ,32, D(C),M(CLR),35,3129,2.4,1,1.8,0.3,7.2,6.71,England
+13,Bacary Sagna ,39, D(CR),,34(1),3061,1.7,1.5,5,0.2,7.2,8.1,France
+14,Vincent Kompany ,36, D(C),,28,2365,2.3,2,5.1,0.5,7.18,7.1,Belgium
+15,Chris Smalling ,32, D(CR),,21(4),1938,1.7,1,7.2,0.6,7.16,7.47,England
+16,Luke Shaw ,27, D(CL),M(L),35,2995,2.1,1.1,3.5,0.1,7.16,7.07,England
+17,Per Mertesacker ,38, D(C),,35,3150,1.2,1.7,7.1,0.5,7.15,6.89,Germany
+18,Glen Johnson ,38, D(CLR),M(R),29,2521,2.2,1.7,2.4,0.3,7.14,6.79,England
+19,Geoff Cameron ,37, D(CLR),DMC,37,3286,2.9,2.5,3.4,0.2,7.08,7.37,USA
+20,Mamadou Sakho ,32, D(C),,17(1),1481,1.5,1.5,7.6,0.4,7.05,7.15,France
+21,David Luiz ,35, D(C),DMC,15(4),1359,1.2,1.3,4.6,0.3,6.98,7.35,Brazil
+22,Ron Vlaar ,37, D(C),,32,2806,2,2,6.6,0.6,6.93,7.75,Netherlands
+23,Jan Vertonghen ,35, D(CL),,23,2004,1.4,1.8,4.7,0.3,6.93,7.44,Belgium
+24,Kolo Touré ,41, D(C),,15(5),1439,1.7,0.8,7.4,0.7,6.91,6.38,Ivory Coast
+25,Maynor Figueroa ,39, D(CL),M(L),31(1),2717,2.1,2.4,3.6,0.5,6.87,6.81,Honduras
+26,Thomas Vermaelen ,36, D(CL),,7(7),782,1,1.4,5.6,0.1,6.77,6.47,Belgium
+27,Gary Medel ,35, D(C),DMC,34,2873,2.3,1.9,1.8,0.3,6.7,7.39,Chile
+28,Ricardo Rodríguez ,30, D(CL),M(L),34,3060,3,1.8,2.9,0.4,8.01,8.12,Switzerland
+29,Mats Hummels ,33, D(C),,23,1962,2,2.5,5.7,0.3,7.71,7.81,Germany
+30,Sokratis Papastathopoulos ,34, D(CR),,24(4),2265,2.6,1.3,4.8,0.5,7.54,7.39,Greece
+31,Javi Martínez ,34, D(C),M(C),14(4),1341,2.6,1.6,2.7,0.4,7.5,6.4,Spain
+32,Joël Matip ,31, D(C),,31,2790,2.4,2.5,6,0.5,7.45,6.8,Cameroon
+33,Luiz Gustavo ,35, D(C),M(C),29,2543,3.4,2.4,1.4,0.2,7.35,7.27,Brazil
+34,Bastian Schweinsteiger ,38, D(C),M(C),22(1),1833,1.7,0.6,0.5,0.1,7.32,7.03,Germany
+35,Emir Spahic ,42, D(C),,26(1),2345,1.5,2.5,7.5,0.6,7.31,7.3,Bosnia and Herzegovina
+36,Jérôme Boateng ,34, D(CR),,25,2169,1.5,1.6,4.1,0.3,7.28,7.21,Germany
+37,Sejad Salihovic ,38, D(L),M(CL),22(6),1835,1.6,0.6,1.1,0.1,7.24,6.39,Bosnia and Herzegovina
+38,Atsuto Uchida ,34, D(R),M(R),17,1521,2.5,1.9,2.4,0.5,7.22,7.12,Japan
+39,Philipp Lahm ,38, D(R),DMC,25(3),2340,1.2,1.3,1.2,0,7.22,7.36,Germany
+40,Johan Djourou ,35, D(C),,22,1894,1.5,1.8,7.6,1,7.18,6.87,Switzerland
+41,Daniel Van Buyten ,44, D(C),,10(2),926,1.3,1.4,3.8,0.2,7.16,7.42,Belgium
+42,Júnior Díaz ,39, D(CL),,15(5),1484,2.2,1,4.1,0.6,7.09,7.06,Costa Rica
+43,Sead Kolasinac ,29, D(CL),DMC,21(3),1860,2.9,1.7,2.2,0.2,7.05,6.79,Bosnia and Herzegovina
+44,Makoto Hasebe ,38, D(CR),M(CR),14,1260,2.4,1.7,1.7,0.4,7.04,6.87,Japan
+45,Marcelo ,35, D(C),,24,2120,1.6,2.3,7.3,0.5,7.02,7.08,Brazil
+46,Granit Xhaka ,30, D(L),M(C),23(5),2035,2,1.8,2.1,0.3,7.02,6.8,Switzerland
+47,Jermaine Jones ,41, D(C),M(C),9(5),902,2.7,1.5,1.1,0.5,6.97,7.39,USA
+48,Hong Jeong-Ho ,33, D(C),,6(10),794,1.1,1.2,4.1,0.6,6.91,7.08,South Korea
+49,Benedikt Höwedes ,34, D(CLR),,18(1),1515,1.7,2.6,3.1,0.7,6.87,7.22,Germany
+50,Arthur Boka ,39, D(L),M(C),22(3),1786,2.4,2,1.6,0.1,6.83,6.7,Ivory Coast
+51,Fabian Johnson ,34, D(LR),M(CLR),23(4),2077,1.8,1.3,1.6,0.2,6.8,6.61,USA
+52,John Brooks ,29, D(C),,14(2),1059,1.2,1.7,4.6,0.4,6.78,8.05,USA
+53,Sergio Ramos ,36, D(CR),,32,2759,2.3,2.3,4.4,0.5,7.47,7.34,Spain
+54,Diego Godín ,36, D(C),,34,3060,1.8,2.6,7.1,0.3,7.44,7.43,Uruguay
+55,Dani Alves ,39, D(R),M(CR),26(1),2388,3.1,2,1.4,0,7.44,7.53,Brazil
+56,Marcelo ,34, D(L),M(L),24(4),2176,2.5,1.3,1.5,0.1,7.28,7.08,Brazil
+57,Javier Mascherano ,38, D(C),M(C),27(1),2367,2.8,2.9,3.4,0.3,7.14,7.53,Argentina
+58,Carlos Peña ,39, D(CL),,37,3327,2.5,2.4,5.8,0.3,7.09,6.31,Mexico
+59,Jordi Alba ,33, D(L),M(L),14(1),1202,1.5,1.7,2.9,0.2,7.08,6.72,Spain
+60,Juanfran ,37, D(R),,35,3150,2.1,2,1.6,0.3,7.06,8,Spain
+61,Juanfran ,46, D(CL),,35,3106,2.1,3.1,3.7,0.7,7.03,8,Spain
+62,Héctor Moreno ,34, D(CL),,32,2809,1.3,1.7,4.8,0.7,6.93,7.15,Mexico
+63,Raphaël Varane ,29, D(C),,12(2),1085,0.7,1.6,3.4,0.6,6.89,6.92,France
+64,Toby Alderweireld ,33, D(CR),,10(2),906,2.1,0.8,4.7,0.6,6.87,7.08,Belgium
+65,Ricardo Costa ,41, D(C),,20,1717,1.6,1.9,5.4,0.7,6.86,6.69,Portugal
+66,Allan-Roméo Nyom ,34, D(LR),M(R),34,2869,2.2,1.1,3.3,0.1,6.83,7.45,Cameroon
+67,Andrés Guardado ,36, D(L),M(CL),12(4),1045,1.6,1.8,2.3,0.1,6.79,6.77,Mexico
+68,Francisco Silva ,36, D(C),M(C),29(2),2541,2.5,1.8,1.5,0.1,6.72,7.14,Chile
+69,Juanfran ,34, D(R),M(R),28(6),2553,1.8,1.9,1.9,0.1,6.72,8,Spain
+70,Sèrge Aurier ,29, D(CLR),M(R),34,3045,2.8,2.2,3,0.3,7.42,7.65,Ivory Coast
+71,Thiago Silva ,38, D(C),,28,2386,1.1,2.3,5.1,0.8,7.42,7.16,Brazil
+72,Faouzi Ghoulam ,31, D(L),,16(1),1466,2.2,1.8,4.4,0.4,7.36,6.48,Algeria
+73,Lucas Digne ,29, D(CL),M(L),15,1336,2.3,1.7,1.8,0.2,7.3,7.26,France
+74,Aïssa Mandi ,31, D(CLR),,33,2919,3.1,2.2,3.5,0.3,7.09,7.23,Algeria
+75,Henri Bedimo ,38, D(L),,35(1),3146,1.6,1.2,2.4,0.1,7.07,6.98,Cameroon
+76,Jonathan Mensah ,32, D(CR),,22(4),1829,0.7,2.3,6.2,0.4,6.85,7.17,Ghana
+77,Carl Medjani ,37, D(C),DMC,16,1424,1.1,2.8,5.9,0.5,6.7,6.97,Algeria
+78,Juan Cuadrado ,34, D(R),M(CLR),31(1),2702,1.8,0.8,0.5,0,7.71,7.54,Colombia
+79,Giorgio Chiellini ,38, D(C),,31,2775,2.5,2.1,4.7,0.5,7.62,7.31,Italy
+80,Hugo Campagnaro ,42, D(CR),,20(1),1729,2,2.8,4.7,0.4,7.41,7.25,Argentina
+81,Daniele De Rossi ,39, D(C),M(C),31(1),2724,1.6,2.3,2.4,0.8,7.4,6.81,Italy
+82,Kwadwo Asamoah ,33, D(L),M(CL),32(2),2761,2,1.6,1.4,0.1,7.3,7.28,Ghana
+83,Cristián Zapata ,36, D(C),,20,1793,2.2,1.9,6.9,0.5,7.26,7.04,Colombia
+84,Shkodran Mustafi ,30, D(CR),,32(1),2834,2.5,3,7.1,0.7,7.24,6.51,Germany
+85,Raúl Albiol ,37, D(C),,30(2),2644,1.8,2.1,6.1,0.8,7.16,7.99,Spain
+86,Senad Lulic ,36, D(L),M(CL),28(2),2547,2.2,1.3,1.2,0.2,7.14,6.93,Bosnia and Herzegovina
+87,Leonardo Bonucci ,35, D(C),,29(1),2537,1.6,1.6,3.4,0.6,7.13,7.06,Italy
+88,Maicon ,41, D(R),,28,2328,1.5,1.5,1.8,0.2,7.12,6.45,Brazil
+89,Gabriel Paletta ,36, D(C),,19(2),1534,2.7,1.6,5.3,0.5,7.1,6.44,Italy
+90,Faouzi Ghoulam ,31, D(L),,14(1),1221,2.3,2,2.2,0.3,7.08,6.48,Algeria
+91,Federico Fernández ,33, D(C),,25(1),2294,1.7,2.2,5.3,0.5,7.06,7.27,Argentina
+92,Sime Vrsaljko ,30, D(LR),M(R),22,1799,2,1.6,3,0.3,7.02,6.77,Croatia
+93,Yuto Nagatomo ,36, D(LR),M(LR),32(2),2847,1.2,1.1,1.2,0.1,7.02,6.98,Japan
+94,Andrea Barzagli ,41, D(CR),,26,2288,1.6,1.7,2.9,0.4,6.99,7.02,Italy
+95,Mario Yepes ,46, D(C),,21(3),1899,2,1,6.9,0.7,6.98,7.22,Colombia
+96,Matteo Darmian ,32, D(CLR),M(LR),37,3286,2.9,1.3,2.4,0.1,6.96,6.62,Italy
+97,Martín Cáceres ,35, D(CLR),M(R),14(3),1314,2.2,1.2,2.4,0.6,6.96,6.62,Uruguay
+98,Stephan Lichtsteiner ,38, D(R),M(R),24(3),2121,0.9,0.5,1.7,0.1,6.93,6.83,Switzerland
+99,Vasilis Torosidis ,37, D(CLR),M(R),12(6),1238,1.2,1,2.5,0.3,6.93,6.6,Greece
+100,Ignazio Abate ,35, D(R),M(R),16(3),1462,2.2,1,1.5,0.2,6.77,6.53,Italy
+101,Mauricio Isla ,34, D(R),M(CR),10(8),963,1.3,0.5,1,0.1,6.75,6.81,Chile
+102,Pablo Armero ,36, D(L),M(L),9(5),878,1.5,1.2,0.9,0.3,6.73,6.91,Colombia

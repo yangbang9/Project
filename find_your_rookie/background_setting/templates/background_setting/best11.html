@@ -1,0 +1,117 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    {% load static %}
+    <title>Find Your Rookie</title>
+    <link href="{% static 'css/new.css' %}" rel="stylesheet" />
+    <link href="{% static 'css/styles.css' %}" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+        <div class="container px-4 px-lg-5">
+            <a class="navbar-brand" href="http://127.0.0.1:8000/">Find Your Rookie</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto my-2 my-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="http://127.0.0.1:8000/back_setting">SETTING</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://127.0.0.1:8000/ranking">RANKING</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://127.0.0.1:8000/international">INTERNATIONAL</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="masthead">
+        <div class="lb-wrap">
+            
+            <!-- {%if candidates.index == 1 %}
+                <div class="lb-st">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 2 %}
+                <div class="lb-rw">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 3 %}
+                <div class="lb-lw">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 4 %}
+                <div class="lb-cm">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 5 %}
+                <div class="lb-rm">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 6 %}
+                <div class="lb-lm">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 7 %}
+                <div class="lb-rwb">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 8 %}
+                <div class="lb-rb">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 9 %}
+                <div class="lb-lb">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%elif candidates.index == 10 %}
+                <div class="lb-lwb">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%else%}
+                <div class="lb-gk">
+                    <h3>{{candidates.name}}}({{candidates.age}})</h3>
+                </div>
+            {%endif%} -->
+
+            <div class="lb-st">
+                <h4 style="font-size: 15px;">{{St}}</h4>
+            </div>
+            <div class="lb-rw">
+                <h4 style="font-size: 15px;">{{Rw}}</h4>
+            </div>
+            <div class="lb-lw">
+                <h4 style="font-size: 15px;">{{Lw}}</h4>
+            </div>
+            <div class="lb-cm">
+                <h4 style="font-size: 15px;">{{Cm}}</h4>
+            </div>
+            <div class="lb-rm">
+                <h4 style="font-size: 15px;">{{Rm}}</h4>
+            </div>
+            <div class="lb-lm">
+                <h4 style="font-size: 15px;">{{Lm}}</h4>
+            </div>
+            <div class="lb-rwb">
+                <h4 style="font-size: 15px;">{{Rwb}}</h4>
+            </div>
+            <div class="lb-rb">
+                <h4 style="font-size: 15px;">{{Rb}}</h4>
+            </div>
+            <div class="lb-lb">
+                <h4 style="font-size: 15px;">{{Lb}}</h4>
+            </div>
+            <div class="lb-lwb">
+                <h4 style="font-size: 15px;">{{Lwb}}</h4>
+            </div>
+            <div class="lb-gk">
+                <h4 style="font-size: 15px;">{{Gk}}</h4>
+            </div>
+
+            
+
+            <div class="lb-image">
+                <img src="{% static 'assets/img/best11-back2.jpg' %}" alt="">
+            </div>
+        </div>
+    </header>
+</body>
+</html>

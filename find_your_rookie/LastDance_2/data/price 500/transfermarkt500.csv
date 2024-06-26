@@ -1,0 +1,501 @@
+number,name,position,age,nation,team,value
+1,Kylian Mbapp?,Centre-Forward,23,France,Paris Saint-Germain,¢æ160.00m
+2,Erling Haaland,Centre-Forward,22,Norway,Manchester City,¢æ150.00m
+3,Vinicius Junior,Left Winger,22,Brazil,Real Madrid,¢æ100.00m
+4,Phil Foden,Central Midfield,22,England,Manchester City,¢æ90.00m
+5,Mohamed Salah,Right Winger,30,Egypt,Liverpool FC,¢æ90.00m
+6,Harry Kane,Centre-Forward,29,England,Tottenham Hotspur,¢æ90.00m
+7,Du?an Vlahovi?,Centre-Forward,22,Serbia,Juventus FC,¢æ85.00m
+8,Bruno Fernandes,Attacking Midfield,27,Portugal,Manchester United,¢æ85.00m
+9,Kevin De Bruyne,Attacking Midfield,31,Belgium,Manchester City,¢æ85.00m
+10,Pedri,Central Midfield,19,Spain,FC Barcelona,¢æ80.00m
+11,Jude Bellingham,Central Midfield,19,England,Borussia Dortmund,¢æ80.00m
+12,Declan Rice,Defensive Midfield,23,England,West Ham United,¢æ80.00m
+13,Rodri,Defensive Midfield,26,Spain,Manchester City,¢æ80.00m
+14,Christopher Nkunku,Second Striker,24,France,RB Leipzig,¢æ80.00m
+15,Trent Alexander-Arnold,Right-Back,23,England,Liverpool FC,¢æ80.00m
+16,Bernardo Silva,Attacking Midfield,28,Portugal,Manchester City,¢æ80.00m
+17,Joshua Kimmich,Defensive Midfield,27,Germany,Bayern Munich,¢æ80.00m
+18,Lautaro Mart?nez,Centre-Forward,24,Argentina,Inter Milan,¢æ75.00m
+19,Jadon Sancho,Left Winger,22,England,Manchester United,¢æ75.00m
+20,Mason Mount,Attacking Midfield,23,England,Chelsea FC,¢æ75.00m
+21,R?ben Dias,Centre-Back,25,Portugal,Manchester City,¢æ75.00m
+22,Heung-min Son,Left Winger,30,"Korea, South",Tottenham Hotspur,¢æ75.00m
+23,Neymar,Left Winger,30,Brazil,Paris Saint-Germain,¢æ75.00m
+24,Florian Wirtz,Attacking Midfield,19,Germany,Bayer 04 Leverkusen,¢æ70.00m
+25,Jo?o F?lix,Second Striker,22,Portugal,Atl?tico de Madrid,¢æ70.00m
+26,Alphonso Davies,Left-Back,21,Canada,Bayern Munich,¢æ70.00m
+27,Federico Valverde,Central Midfield,24,Uruguay,Real Madrid,¢æ70.00m
+28,Rafael Le?o,Left Winger,23,Portugal,AC Milan,¢æ70.00m
+29,Matthijs de Ligt,Centre-Back,23,Netherlands,Bayern Munich,¢æ70.00m
+30,Kai Havertz,Attacking Midfield,23,Germany,Chelsea FC,¢æ70.00m
+31,Sergej Milinkovi?-Savi?,Central Midfield,27,Serbia,SS Lazio,¢æ70.00m
+32,Nicol? Barella,Central Midfield,25,Italy,Inter Milan,¢æ70.00m
+33,Jack Grealish,Left Winger,26,England,Manchester City,¢æ70.00m
+34,Sadio Man?,Left Winger,30,Senegal,Bayern Munich,¢æ70.00m
+35,Marquinhos,Centre-Back,28,Brazil,Paris Saint-Germain,¢æ70.00m
+36,Raheem Sterling,Left Winger,27,England,Chelsea FC,¢æ70.00m
+37,Romelu Lukaku,Centre-Forward,29,Belgium,Inter Milan,¢æ70.00m
+38,Jamal Musiala,Attacking Midfield,19,Germany,Bayern Munich,¢æ65.00m
+39,Luis D?az,Left Winger,25,Colombia,Liverpool FC,¢æ65.00m
+40,Bukayo Saka,Right Midfield,20,England,Arsenal FC,¢æ65.00m
+41,Victor Osimhen,Centre-Forward,23,Nigeria,SSC Napoli,¢æ65.00m
+42,Achraf Hakimi,Right-Back,23,Morocco,Paris Saint-Germain,¢æ65.00m
+43,Federico Chiesa,Right Winger,24,Italy,Juventus FC,¢æ65.00m
+44,Andrew Robertson,Left-Back,28,Scotland,Liverpool FC,¢æ65.00m
+45,Milan Skriniar,Centre-Back,27,Slovakia,Inter Milan,¢æ65.00m
+46,Jo?o Cancelo,Left-Back,28,Portugal,Manchester City,¢æ65.00m
+47,Serge Gnabry,Right Winger,27,Germany,Bayern Munich,¢æ65.00m
+48,Leon Goretzka,Central Midfield,27,Germany,Bayern Munich,¢æ65.00m
+49,Gavi,Central Midfield,18,Spain,FC Barcelona,¢æ60.00m
+50,Reece James,Right-Back,22,England,Chelsea FC,¢æ60.00m
+51,Ansu Fati,Left Winger,19,Spain,FC Barcelona,¢æ60.00m
+52,Aur?lien Tchouameni,Defensive Midfield,22,France,Real Madrid,¢æ60.00m
+53,Rodrygo,Right Winger,21,Brazil,Real Madrid,¢æ60.00m
+54,Jules Kound?,Centre-Back,23,France,FC Barcelona,¢æ60.00m
+55,?der Milit?o,Centre-Back,24,Brazil,Real Madrid,¢æ60.00m
+56,Moussa Diaby,Left Winger,23,France,Bayer 04 Leverkusen,¢æ60.00m
+57,Mikel Oyarzabal,Left Winger,25,Spain,Real Sociedad,¢æ60.00m
+58,Diogo Jota,Left Winger,25,Portugal,Liverpool FC,¢æ60.00m
+59,Frenkie de Jong,Central Midfield,25,Netherlands,FC Barcelona,¢æ60.00m
+60,Alessandro Bastoni,Centre-Back,23,Italy,Inter Milan,¢æ60.00m
+61,Wilfred Ndidi,Defensive Midfield,25,Nigeria,Leicester City,¢æ60.00m
+62,Marcus Rashford,Left Winger,24,England,Manchester United,¢æ60.00m
+63,Kingsley Coman,Right Winger,26,France,Bayern Munich,¢æ60.00m
+64,Fabinho,Defensive Midfield,28,Brazil,Liverpool FC,¢æ60.00m
+65,Leroy San?,Left Winger,26,Germany,Bayern Munich,¢æ60.00m
+66,Thibaut Courtois,Goalkeeper,30,Belgium,Real Madrid,¢æ60.00m
+67,Eduardo Camavinga,Central Midfield,19,France,Real Madrid,¢æ55.00m
+68,Darwin N??ez,Centre-Forward,23,Uruguay,Liverpool FC,¢æ55.00m
+69,Fabi?n Ruiz,Central Midfield,26,Spain,SSC Napoli,¢æ55.00m
+70,Theo Hern?ndez,Left-Back,24,France,AC Milan,¢æ55.00m
+71,Youri Tielemans,Central Midfield,25,Belgium,Leicester City,¢æ55.00m
+72,Virgil van Dijk,Centre-Back,31,Netherlands,Liverpool FC,¢æ55.00m
+73,David Alaba,Centre-Back,30,Austria,Real Madrid,¢æ55.00m
+74,Ronald Ara?jo,Centre-Back,23,Uruguay,FC Barcelona,¢æ50.00m
+75,Pau Torres,Centre-Back,25,Spain,Villarreal CF,¢æ50.00m
+76,Sandro Tonali,Defensive Midfield,22,Italy,AC Milan,¢æ50.00m
+77,Carlos Soler,Central Midfield,25,Spain,Valencia CF,¢æ50.00m
+78,Gabriel Jesus,Centre-Forward,25,Brazil,Arsenal FC,¢æ50.00m
+79,Arnaut Danjuma,Centre-Forward,25,Netherlands,Villarreal CF,¢æ50.00m
+80,Kalvin Phillips,Defensive Midfield,26,England,Manchester City,¢æ50.00m
+81,Mikel Merino,Central Midfield,26,Spain,Real Sociedad,¢æ50.00m
+82,Tammy Abraham,Centre-Forward,24,England,AS Roma,¢æ50.00m
+83,Gianluigi Donnarumma,Goalkeeper,23,Italy,Paris Saint-Germain,¢æ50.00m
+84,Fikayo Tomori,Centre-Back,24,England,AC Milan,¢æ50.00m
+85,James Maddison,Attacking Midfield,25,England,Leicester City,¢æ50.00m
+86,Lucas Hern?ndez,Centre-Back,26,France,Bayern Munich,¢æ50.00m
+87,Jos? Mar?a Gim?nez,Centre-Back,27,Uruguay,Atl?tico de Madrid,¢æ50.00m
+88,Patrik Schick,Centre-Forward,26,Czech Republic,Bayer 04 Leverkusen,¢æ50.00m
+89,Alisson,Goalkeeper,29,Brazil,Liverpool FC,¢æ50.00m
+90,Marco Verratti,Central Midfield,29,Italy,Paris Saint-Germain,¢æ50.00m
+91,Lionel Messi,Right Winger,35,Argentina,Paris Saint-Germain,¢æ50.00m
+92,Richarlison,Centre-Forward,25,Brazil,Tottenham Hotspur,¢æ48.00m
+93,Cristian Romero,Centre-Back,24,Argentina,Tottenham Hotspur,¢æ48.00m
+94,Rapha?l Varane,Centre-Back,29,France,Manchester United,¢æ48.00m
+95,Paul Pogba,Central Midfield,29,France,Juventus FC,¢æ48.00m
+96,Jonathan David,Centre-Forward,22,Canada,LOSC Lille,¢æ45.00m
+97,Raphinha,Right Winger,25,Brazil,FC Barcelona,¢æ45.00m
+98,Ferran Torres,Left Winger,22,Spain,FC Barcelona,¢æ45.00m
+99,Martin ¨ªdegaard,Attacking Midfield,23,Norway,Arsenal FC,¢æ45.00m
+100,Franck Kessi?,Central Midfield,25,Cote d'Ivoire,FC Barcelona,¢æ45.00m
+101,Lorenzo Pellegrini,Attacking Midfield,26,Italy,AS Roma,¢æ45.00m
+102,Tomas Soucek,Defensive Midfield,27,Czech Republic,West Ham United,¢æ45.00m
+103,Marcos Llorente,Central Midfield,27,Spain,Atl?tico de Madrid,¢æ45.00m
+104,?ngel Correa,Second Striker,27,Argentina,Atl?tico de Madrid,¢æ45.00m
+105,Ederson,Goalkeeper,29,Brazil,Manchester City,¢æ45.00m
+106,Aymeric Laporte,Centre-Back,28,Spain,Manchester City,¢æ45.00m
+107,Jan Oblak,Goalkeeper,29,Slovenia,Atl?tico de Madrid,¢æ45.00m
+108,Robert Lewandowski,Centre-Forward,34,Poland,FC Barcelona,¢æ45.00m
+109,Amine Gouiri,Centre-Forward,22,France,OGC Nice,¢æ42.00m
+110,Christian Pulisic,Right Winger,23,United States,Chelsea FC,¢æ42.00m
+111,Jarrod Bowen,Right Winger,25,England,West Ham United,¢æ42.00m
+112,Mateo Kovacic,Central Midfield,28,Croatia,Chelsea FC,¢æ42.00m
+113,Gabriel Martinelli,Left Winger,21,Brazil,Arsenal FC,¢æ40.00m
+114,Nuno Mendes,Left-Back,20,Portugal,Paris Saint-Germain,¢æ40.00m
+115,Y?remy Pino,Right Winger,19,Spain,Villarreal CF,¢æ40.00m
+116,Bruno Guimar?es,Defensive Midfield,24,Brazil,Newcastle United,¢æ40.00m
+117,Wesley Fofana,Centre-Back,21,France,Leicester City,¢æ40.00m
+118,Dejan Kulusevski,Right Winger,22,Sweden,Tottenham Hotspur,¢æ40.00m
+119,Emile Smith Rowe,Attacking Midfield,22,England,Arsenal FC,¢æ40.00m
+120,Ibrahima Konat?,Centre-Back,23,France,Liverpool FC,¢æ40.00m
+121,Dayot Upamecano,Centre-Back,23,France,Bayern Munich,¢æ40.00m
+122,Ben White,Centre-Back,24,England,Arsenal FC,¢æ40.00m
+123,Diego Carlos,Centre-Back,29,Brazil,Aston Villa,¢æ40.00m
+124,Caglar S?y?nc?,Centre-Back,26,Turkey,Leicester City,¢æ40.00m
+125,Dominic Calvert-Lewin,Centre-Forward,25,England,Everton FC,¢æ40.00m
+126,Marco Asensio,Right Winger,26,Spain,Real Madrid,¢æ40.00m
+127,Dani Olmo,Attacking Midfield,24,Spain,RB Leipzig,¢æ40.00m
+128,Ferland Mendy,Left-Back,27,France,Real Madrid,¢æ40.00m
+129,Presnel Kimpembe,Centre-Back,27,France,Paris Saint-Germain,¢æ40.00m
+130,Rodrigo de Paul,Central Midfield,28,Argentina,Atl?tico de Madrid,¢æ40.00m
+131,R?ben Neves,Defensive Midfield,25,Portugal,Wolverhampton Wanderers,¢æ40.00m
+132,Gon?alo Guedes,Left Winger,25,Portugal,Wolverhampton Wanderers,¢æ40.00m
+133,N'Golo Kant?,Defensive Midfield,31,France,Chelsea FC,¢æ40.00m
+134,Jos? Gay?,Left-Back,27,Spain,Valencia CF,¢æ40.00m
+135,Thomas Lemar,Attacking Midfield,26,France,Atl?tico de Madrid,¢æ40.00m
+136,Nabil Fekir,Attacking Midfield,29,France,Real Betis Balompi?,¢æ40.00m
+137,Piotr Zielinski,Attacking Midfield,28,Poland,SSC Napoli,¢æ40.00m
+138,Gerard Moreno,Centre-Forward,30,Spain,Villarreal CF,¢æ40.00m
+139,Pierre-Emile H?jbjerg,Central Midfield,27,Denmark,Tottenham Hotspur,¢æ40.00m
+140,Marcelo Brozovic,Defensive Midfield,29,Croatia,Inter Milan,¢æ40.00m
+141,Yannick Carrasco,Left Winger,28,Belgium,Atl?tico de Madrid,¢æ40.00m
+142,Jorginho,Defensive Midfield,30,Italy,Chelsea FC,¢æ40.00m
+143,Antonio R?diger,Centre-Back,29,Germany,Real Madrid,¢æ40.00m
+144,Casemiro,Defensive Midfield,30,Brazil,Manchester United,¢æ40.00m
+145,Douglas Luiz,Defensive Midfield,24,Brazil,Aston Villa,¢æ38.00m
+146,Gabriel Magalh?es,Centre-Back,24,Brazil,Arsenal FC,¢æ38.00m
+147,Ben Chilwell,Left-Back,25,England,Chelsea FC,¢æ38.00m
+148,Thomas Partey,Defensive Midfield,29,Ghana,Arsenal FC,¢æ38.00m
+149,Luke Shaw,Left-Back,27,England,Manchester United,¢æ38.00m
+150,Harry Maguire,Centre-Back,29,England,Manchester United,¢æ38.00m
+151,Wilfried Zaha,Left Winger,29,Cote d'Ivoire,Crystal Palace,¢æ38.00m
+152,Antony,Right Winger,22,Brazil,Ajax Amsterdam,¢æ35.00m
+153,Matheus Nunes,Central Midfield,23,Portugal,Wolverhampton Wanderers,¢æ35.00m
+154,Edmond Tapsoba,Centre-Back,23,Burkina Faso,Bayer 04 Leverkusen,¢æ35.00m
+155,Bremer,Centre-Back,25,Brazil,Juventus FC,¢æ35.00m
+156,Giovanni Reyna,Attacking Midfield,19,United States,Borussia Dortmund,¢æ35.00m
+157,Karim Adeyemi,Centre-Forward,20,Germany,Borussia Dortmund,¢æ35.00m
+158,Ryan Gravenberch,Central Midfield,20,Netherlands,Bayern Munich,¢æ35.00m
+159,Josko Gvardiol,Centre-Back,20,Croatia,RB Leipzig,¢æ35.00m
+160,Lucas Paquet?,Attacking Midfield,24,Brazil,Olympique Lyon,¢æ35.00m
+161,Jurrien Timber,Centre-Back,21,Netherlands,Ajax Amsterdam,¢æ35.00m
+162,Yves Bissouma,Central Midfield,25,Mali,Tottenham Hotspur,¢æ35.00m
+163,Ollie Watkins,Centre-Forward,26,England,Aston Villa,¢æ35.00m
+164,Manuel Locatelli,Defensive Midfield,24,Italy,Juventus FC,¢æ35.00m
+165,Ivan Toney,Centre-Forward,26,England,Brentford FC,¢æ35.00m
+166,Paulo Dybala,Second Striker,28,Argentina,AS Roma,¢æ35.00m
+167,Andreas Christensen,Centre-Back,26,Denmark,FC Barcelona,¢æ35.00m
+168,Mike Maignan,Goalkeeper,27,France,AC Milan,¢æ35.00m
+169,S?bastien Haller,Centre-Forward,28,Cote d'Ivoire,Borussia Dortmund,¢æ35.00m
+170,Domenico Berardi,Right Winger,28,Italy,US Sassuolo,¢æ35.00m
+171,Riyad Mahrez,Right Winger,31,Algeria,Manchester City,¢æ35.00m
+172,Timo Werner,Centre-Forward,26,Germany,RB Leipzig,¢æ35.00m
+173,Memphis Depay,Centre-Forward,28,Netherlands,FC Barcelona,¢æ35.00m
+174,Niklas S?le,Centre-Back,26,Germany,Borussia Dortmund,¢æ35.00m
+175,Hakan Calhanoglu,Central Midfield,28,Turkey,Inter Milan,¢æ35.00m
+176,Antoine Griezmann,Second Striker,31,France,Atl?tico de Madrid,¢æ35.00m
+177,Kalidou Koulibaly,Centre-Back,31,Senegal,Chelsea FC,¢æ35.00m
+178,Nicol? Zaniolo,Attacking Midfield,23,Italy,AS Roma,¢æ33.00m
+179,Nico Schlotterbeck,Centre-Back,22,Germany,Borussia Dortmund,¢æ33.00m
+180,Isma?l Bennacer,Defensive Midfield,24,Algeria,AC Milan,¢æ33.00m
+181,Pedro Neto,Left Winger,22,Portugal,Wolverhampton Wanderers,¢æ32.00m
+182,Lisandro Mart?nez,Centre-Back,24,Argentina,Manchester United,¢æ32.00m
+183,Edouard Mendy,Goalkeeper,30,Senegal,Chelsea FC,¢æ32.00m
+184,Harvey Barnes,Left Midfield,24,England,Leicester City,¢æ32.00m
+185,Marc Gu?hi,Centre-Back,22,England,Crystal Palace,¢æ32.00m
+186,Evan Ndicka,Centre-Back,23,France,Eintracht Frankfurt,¢æ32.00m
+187,Emiliano Buend?a,Right Winger,25,Argentina,Aston Villa,¢æ32.00m
+188,Scott McTominay,Defensive Midfield,25,Scotland,Manchester United,¢æ32.00m
+189,Kieran Tierney,Left-Back,25,Scotland,Arsenal FC,¢æ32.00m
+190,Allan Saint-Maximin,Left Winger,25,France,Newcastle United,¢æ32.00m
+191,Andr? Silva,Centre-Forward,26,Portugal,RB Leipzig,¢æ32.00m
+192,John McGinn,Central Midfield,27,Scotland,Aston Villa,¢æ32.00m
+193,James Ward-Prowse,Central Midfield,27,England,Southampton FC,¢æ32.00m
+194,Roberto Firmino,Centre-Forward,30,Brazil,Liverpool FC,¢æ32.00m
+195,Matheus Cunha,Centre-Forward,23,Brazil,Atl?tico de Madrid,¢æ30.00m
+196,William Saliba,Centre-Back,21,France,Arsenal FC,¢æ30.00m
+197,Vitinha,Central Midfield,22,Portugal,Paris Saint-Germain,¢æ30.00m
+198,Renan Lodi,Left-Back,24,Brazil,Atl?tico de Madrid,¢æ30.00m
+199,Beno?t Badiashile,Centre-Back,21,France,AS Monaco,¢æ30.00m
+200,Tanguy Ndomb?l?,Central Midfield,25,France,SSC Napoli,¢æ30.00m
+201,Charles De Ketelaere,Attacking Midfield,21,Belgium,AC Milan,¢æ30.00m
+202,Cody Gakpo,Left Winger,23,Netherlands,PSV Eindhoven,¢æ30.00m
+203,Pedro Gon?alves,Left Winger,24,Portugal,Sporting CP,¢æ30.00m
+204,Mart?n Zubimendi,Defensive Midfield,23,Spain,Real Sociedad,¢æ30.00m
+205,Sven Botman,Centre-Back,22,Netherlands,Newcastle United,¢æ30.00m
+206,Andr? Zambo Anguissa,Defensive Midfield,26,Cameroon,SSC Napoli,¢æ30.00m
+207,Benjamin Pavard,Right-Back,26,France,Bayern Munich,¢æ30.00m
+208,Robin Le Normand,Centre-Back,25,France,Real Sociedad,¢æ30.00m
+209,Alexander Isak,Centre-Forward,22,Sweden,Real Sociedad,¢æ30.00m
+210,Hirving Lozano,Right Winger,27,Mexico,SSC Napoli,¢æ30.00m
+211,Gianluca Scamacca,Centre-Forward,23,Italy,West Ham United,¢æ30.00m
+212,Ousmane Demb?l?,Right Winger,25,France,FC Barcelona,¢æ30.00m
+213,Manuel Akanji,Centre-Back,27,Switzerland,Borussia Dortmund,¢æ30.00m
+214,Angeli?o,Left-Back,25,Spain,TSG 1899 Hoffenheim,¢æ30.00m
+215,Tyrone Mings,Centre-Back,29,England,Aston Villa,¢æ30.00m
+216,Ot?vio,Right Midfield,27,Portugal,FC Porto,¢æ30.00m
+217,Marc-Andr? ter Stegen,Goalkeeper,30,Germany,FC Barcelona,¢æ30.00m
+218,Karim Benzema,Centre-Forward,34,France,Real Madrid,¢æ30.00m
+219,Cristiano Ronaldo,Centre-Forward,37,Portugal,Manchester United,¢æ30.00m
+220,Hugo Ekitik?,Centre-Forward,20,France,Paris Saint-Germain,¢æ28.00m
+221,Pierre Kalulu,Centre-Back,22,France,AC Milan,¢æ28.00m
+222,Dominik Szoboszlai,Left Winger,21,Hungary,RB Leipzig,¢æ28.00m
+223,Curtis Jones,Central Midfield,21,England,Liverpool FC,¢æ28.00m
+224,Aaron Ramsdale,Goalkeeper,24,England,Arsenal FC,¢æ28.00m
+225,Giacomo Raspadori,Second Striker,22,Italy,SSC Napoli,¢æ28.00m
+226,Rodrigo Bentancur,Central Midfield,25,Uruguay,Tottenham Hotspur,¢æ28.00m
+227,Davinson S?nchez,Centre-Back,26,Colombia,Tottenham Hotspur,¢æ28.00m
+228,Marc Cucurella,Left-Back,24,Spain,Chelsea FC,¢æ28.00m
+229,Robin Gosens,Left Midfield,28,Germany,Inter Milan,¢æ28.00m
+230,Timothy Castagne,Right-Back,26,Belgium,Leicester City,¢æ28.00m
+231,Renato Sanches,Central Midfield,25,Portugal,Paris Saint-Germain,¢æ28.00m
+232,Konrad Laimer,Central Midfield,25,Austria,RB Leipzig,¢æ28.00m
+233,Hakim Ziyech,Attacking Midfield,29,Morocco,Chelsea FC,¢æ28.00m
+234,Ruslan Malinovskyi,Attacking Midfield,29,Ukraine,Atalanta BC,¢æ28.00m
+235,Mario Pasalic,Attacking Midfield,27,Croatia,Atalanta BC,¢æ28.00m
+236,John Stones,Centre-Back,28,England,Manchester City,¢æ28.00m
+237,Eric Dier,Centre-Back,28,England,Tottenham Hotspur,¢æ28.00m
+238,Leander Dendoncker,Defensive Midfield,27,Belgium,Wolverhampton Wanderers,¢æ28.00m
+239,Kurt Zouma,Centre-Back,27,France,West Ham United,¢æ28.00m
+240,Luis Alberto,Central Midfield,29,Spain,SS Lazio,¢æ28.00m
+241,Emiliano Mart?nez,Goalkeeper,29,Argentina,Aston Villa,¢æ28.00m
+242,Stefan de Vrij,Centre-Back,30,Netherlands,Inter Milan,¢æ28.00m
+243,Duv?n Zapata,Centre-Forward,31,Colombia,Atalanta BC,¢æ28.00m
+244,Mohamed Camara,Defensive Midfield,22,Mali,AS Monaco,¢æ27.00m
+245,Isma?la Sarr,Right Winger,24,Senegal,Watford FC,¢æ27.00m
+246,Denis Zakaria,Defensive Midfield,25,Switzerland,Juventus FC,¢æ27.00m
+247,Donyell Malen,Centre-Forward,23,Netherlands,Borussia Dortmund,¢æ27.00m
+248,Xaver Schlager,Central Midfield,24,Austria,RB Leipzig,¢æ27.00m
+249,Ciro Immobile,Centre-Forward,32,Italy,SS Lazio,¢æ27.00m
+250,Danilo,Defensive Midfield,21,Brazil,Sociedade Esportiva Palmeiras,¢æ25.00m
+251,Tyrick Mitchell,Left-Back,22,England,Crystal Palace,¢æ25.00m
+252,Pedro Porro,Right-Back,22,Spain,Sporting CP,¢æ25.00m
+253,F?bio Vieira,Attacking Midfield,22,Portugal,Arsenal FC,¢æ25.00m
+254,Luis Sinisterra,Left Winger,23,Colombia,Leeds United,¢æ25.00m
+255,Tino Livramento,Right-Back,19,England,Southampton FC,¢æ25.00m
+256,Jacob Ramsey,Central Midfield,21,England,Aston Villa,¢æ25.00m
+257,Conor Gallagher,Central Midfield,22,England,Chelsea FC,¢æ25.00m
+258,Nicol?s Gonz?lez,Left Winger,24,Argentina,ACF Fiorentina,¢æ25.00m
+259,Juan Foyth,Right-Back,24,Argentina,Villarreal CF,¢æ25.00m
+260,Aaron Wan-Bissaka,Right-Back,24,England,Manchester United,¢æ25.00m
+261,Emerson Royal,Right-Back,23,Brazil,Tottenham Hotspur,¢æ25.00m
+262,Matt?o Guendouzi,Central Midfield,23,France,Olympique Marseille,¢æ25.00m
+263,Martin Terrier,Left Winger,25,France,Stade Rennais FC,¢æ25.00m
+264,Youssef En-Nesyri,Centre-Forward,25,Morocco,Sevilla FC,¢æ25.00m
+265,Matty Cash,Right-Back,25,Poland,Aston Villa,¢æ25.00m
+266,James Justin,Right-Back,24,England,Leicester City,¢æ25.00m
+267,Houssem Aouar,Central Midfield,24,France,Olympique Lyon,¢æ25.00m
+268,Maxence Caqueret,Central Midfield,22,France,Olympique Lyon,¢æ25.00m
+269,Boubacar Kamara,Defensive Midfield,22,France,Aston Villa,¢æ25.00m
+270,Brenden Aaronson,Attacking Midfield,21,United States,Leeds United,¢æ25.00m
+271,Callum Hudson-Odoi,Right Winger,21,England,Chelsea FC,¢æ25.00m
+272,Leon Bailey,Left Winger,25,Jamaica,Aston Villa,¢æ25.00m
+273,Sasa Kalajdzic,Centre-Forward,25,Austria,VfB Stuttgart,¢æ25.00m
+274,Teun Koopmeiners,Defensive Midfield,24,Netherlands,Atalanta BC,¢æ25.00m
+275,Diogo Costa,Goalkeeper,22,Portugal,FC Porto,¢æ25.00m
+276,Boubakary Soumar?,Defensive Midfield,23,France,Leicester City,¢æ25.00m
+277,Nicolas P?p?,Right Winger,27,Cote d'Ivoire,Arsenal FC,¢æ25.00m
+278,Guido Rodr?guez,Defensive Midfield,28,Argentina,Real Betis Balompi?,¢æ25.00m
+279,Merih Demiral,Centre-Back,24,Turkey,Atalanta BC,¢æ25.00m
+280,Weston McKennie,Central Midfield,23,United States,Juventus FC,¢æ25.00m
+281,Takehiro Tomiyasu,Right-Back,23,Japan,Arsenal FC,¢æ25.00m
+282,Denzel Dumfries,Right Midfield,26,Netherlands,Inter Milan,¢æ25.00m
+283,Naby Ke?ta,Central Midfield,27,Guinea,Liverpool FC,¢æ25.00m
+284,Sa?d Benrahma,Left Winger,27,Algeria,West Ham United,¢æ25.00m
+285,Donny van de Beek,Central Midfield,25,Netherlands,Manchester United,¢æ25.00m
+286,Sergio Reguil?n,Left-Back,25,Spain,Tottenham Hotspur,¢æ25.00m
+287,Viktor Tsygankov,Right Winger,24,Ukraine,Dynamo Kyiv,¢æ25.00m
+288,Aleksandr Golovin,Attacking Midfield,26,Russia,AS Monaco,¢æ25.00m
+289,Davide Calabria,Right-Back,25,Italy,AC Milan,¢æ25.00m
+290,Unai Sim?n,Goalkeeper,25,Spain,Athletic Bilbao,¢æ25.00m
+291,Joachim Andersen,Centre-Back,26,Denmark,Crystal Palace,¢æ25.00m
+292,Amir Rrahmani,Centre-Back,28,Kosovo,SSC Napoli,¢æ25.00m
+293,Jo?o Palhinha,Defensive Midfield,27,Portugal,Fulham FC,¢æ25.00m
+294,I?aki Williams,Centre-Forward,28,Ghana,Athletic Bilbao,¢æ25.00m
+295,Enes ?nal,Centre-Forward,25,Turkey,Getafe CF,¢æ25.00m
+296,Oleksandr Zinchenko,Left-Back,25,Ukraine,Arsenal FC,¢æ25.00m
+297,Jonathan Tah,Centre-Back,26,Germany,Bayer 04 Leverkusen,¢æ25.00m
+298,Lucas Ocampos,Left Winger,28,Argentina,Sevilla FC,¢æ25.00m
+299,Julian Brandt,Attacking Midfield,26,Germany,Borussia Dortmund,¢æ25.00m
+300,Seko Fofana,Central Midfield,27,Cote d'Ivoire,RC Lens,¢æ25.00m
+301,Nathan Ak?,Centre-Back,27,Netherlands,Manchester City,¢æ25.00m
+302,Rapha?l Guerreiro,Left-Back,28,Portugal,Borussia Dortmund,¢æ25.00m
+303,Giovanni Di Lorenzo,Right-Back,29,Italy,SSC Napoli,¢æ25.00m
+304,Ra?l de Tom?s,Centre-Forward,27,Spain,RCD Espanyol Barcelona,¢æ25.00m
+305,I?igo Mart?nez,Centre-Back,31,Spain,Athletic Bilbao,¢æ25.00m
+306,Sa?l ??guez,Central Midfield,27,Spain,Atl?tico de Madrid,¢æ25.00m
+307,Wissam Ben Yedder,Centre-Forward,32,France,AS Monaco,¢æ25.00m
+308,Conor Coady,Centre-Back,29,England,Everton FC,¢æ25.00m
+309,?lvaro Morata,Centre-Forward,29,Spain,Atl?tico de Madrid,¢æ25.00m
+310,Lucas Digne,Left-Back,29,France,Aston Villa,¢æ25.00m
+311,Pablo Sarabia,Right Winger,30,Spain,Paris Saint-Germain,¢æ25.00m
+312,Koke,Central Midfield,30,Spain,Atl?tico de Madrid,¢æ25.00m
+313,Ilkay G?ndogan,Central Midfield,31,Germany,Manchester City,¢æ25.00m
+314,Amadou Haidara,Central Midfield,24,Mali,RB Leipzig,¢æ24.00m
+315,Eljif Elmas,Attacking Midfield,22,North Macedonia,SSC Napoli,¢æ24.00m
+316,Ibrahim Sangar?,Defensive Midfield,24,Cote d'Ivoire,PSV Eindhoven,¢æ24.00m
+317,Moise Kean,Centre-Forward,22,Italy,Juventus FC,¢æ24.00m
+318,Gabriel Barbosa,Centre-Forward,25,Brazil,Clube de Regatas do Flamengo,¢æ24.00m
+319,Filip Kostic,Left Midfield,29,Serbia,Juventus FC,¢æ24.00m
+320,Juli?n ?lvarez,Centre-Forward,22,Argentina,Manchester City,¢æ23.00m
+321,Gon?alo In?cio,Centre-Back,20,Portugal,Sporting CP,¢æ23.00m
+322,Roger Iba?ez,Centre-Back,23,Brazil,AS Roma,¢æ23.00m
+323,Borna Sosa,Left-Back,24,Croatia,VfB Stuttgart,¢æ23.00m
+324,Joaqu?n Correa,Second Striker,28,Argentina,Inter Milan,¢æ23.00m
+325,Evanilson,Centre-Forward,22,Brazil,FC Porto,¢æ22.00m
+326,Mohamed Simakan,Centre-Back,22,France,RB Leipzig,¢æ22.00m
+327,Armando Broja,Centre-Forward,20,Albania,Chelsea FC,¢æ22.00m
+328,Michael Olise,Right Midfield,20,France,Crystal Palace,¢æ22.00m
+329,Harvey Elliott,Right Winger,19,England,Liverpool FC,¢æ22.00m
+330,Eberechi Eze,Attacking Midfield,24,England,Crystal Palace,¢æ22.00m
+331,Max Aarons,Right-Back,22,England,Norwich City,¢æ22.00m
+332,Orkun K?k??,Central Midfield,21,Turkey,Feyenoord Rotterdam,¢æ22.00m
+333,Ezri Konsa,Centre-Back,24,England,Aston Villa,¢æ22.00m
+334,Bryan Mbeumo,Right Winger,23,Cameroon,Brentford FC,¢æ22.00m
+335,Edson ?lvarez,Defensive Midfield,24,Mexico,Ajax Amsterdam,¢æ22.00m
+336,Hamed Junior Traor?,Attacking Midfield,22,Cote d'Ivoire,US Sassuolo,¢æ22.00m
+337,Tet?,Right Winger,22,Brazil,Olympique Lyon,¢æ22.00m
+338,Pablo Fornals,Attacking Midfield,26,Spain,West Ham United,¢æ22.00m
+339,Daichi Kamada,Attacking Midfield,26,Japan,Eintracht Frankfurt,¢æ22.00m
+340,Giovani Lo Celso,Central Midfield,26,Argentina,Villarreal CF,¢æ22.00m
+341,Gerson,Central Midfield,25,Brazil,Olympique Marseille,¢æ22.00m
+342,Cengiz ?nder,Right Winger,25,Turkey,Olympique Marseille,¢æ22.00m
+343,Kyle Walker-Peters,Right-Back,25,England,Southampton FC,¢æ22.00m
+344,Joe Willock,Central Midfield,23,England,Newcastle United,¢æ22.00m
+345,Noa Lang,Left Winger,23,Netherlands,Club Brugge KV,¢æ22.00m
+346,Christoph Baumgartner,Attacking Midfield,23,Austria,TSG 1899 Hoffenheim,¢æ22.00m
+347,Malcom,Right Winger,25,Brazil,Zenit St. Petersburg,¢æ22.00m
+348,Nikola Vlasic,Attacking Midfield,24,Croatia,Torino FC,¢æ22.00m
+349,Demarai Gray,Left Winger,26,England,Everton FC,¢æ22.00m
+350,Joan Jord?n,Central Midfield,28,Spain,Sevilla FC,¢æ22.00m
+351,David Raya,Goalkeeper,26,Spain,Brentford FC,¢æ22.00m
+352,Gregor Kobel,Goalkeeper,24,Switzerland,Borussia Dortmund,¢æ22.00m
+353,Jan Bednarek,Centre-Back,26,Poland,Southampton FC,¢æ22.00m
+354,Reinildo Mandava,Left-Back,28,Mozambique,Atl?tico de Madrid,¢æ22.00m
+355,N?lson Semedo,Right-Back,28,Portugal,Wolverhampton Wanderers,¢æ22.00m
+356,Thilo Kehrer,Centre-Back,25,Germany,West Ham United,¢æ22.00m
+357,?lex Remiro,Goalkeeper,27,Spain,Real Sociedad,¢æ22.00m
+358,Djibril Sow,Central Midfield,25,Switzerland,Eintracht Frankfurt,¢æ22.00m
+359,Julian Weigl,Defensive Midfield,26,Germany,SL Benfica,¢æ22.00m
+360,Victor Lindel?f,Centre-Back,28,Sweden,Manchester United,¢æ22.00m
+361,Sardar Azmoun,Centre-Forward,27,Iran,Bayer 04 Leverkusen,¢æ22.00m
+362,James Tarkowski,Centre-Back,29,England,Everton FC,¢æ22.00m
+363,Abdoulaye Doucour?,Central Midfield,29,Mali,Everton FC,¢æ22.00m
+364,Kevin Volland,Second Striker,30,Germany,AS Monaco,¢æ22.00m
+365,Mauro Icardi,Centre-Forward,29,Argentina,Paris Saint-Germain,¢æ22.00m
+366,Thomas M?ller,Second Striker,32,Germany,Bayern Munich,¢æ22.00m
+367,Gianluca Mancini,Centre-Back,26,Italy,AS Roma,¢æ21.00m
+368,Odilon Kossounou,Centre-Back,21,Cote d'Ivoire,Bayer 04 Leverkusen,¢æ20.00m
+369,Castello Lukeba,Centre-Back,19,France,Olympique Lyon,¢æ20.00m
+370,Unai Vencedor,Central Midfield,21,Spain,Athletic Bilbao,¢æ20.00m
+371,Jean-Clair Todibo,Centre-Back,22,France,OGC Nice,¢æ20.00m
+372,Anthony Elanga,Left Winger,20,Sweden,Manchester United,¢æ20.00m
+373,Rayan A?t-Nouri,Left-Back,21,France,Wolverhampton Wanderers,¢æ20.00m
+374,Sofiane Diop,Left Winger,22,France,AS Monaco,¢æ20.00m
+375,Adam Hlozek,Left Winger,20,Czech Republic,Bayer 04 Leverkusen,¢æ20.00m
+376,Illan Meslier,Goalkeeper,22,France,Leeds United,¢æ20.00m
+377,Anthony Gordon,Left Winger,21,England,Everton FC,¢æ20.00m
+378,Luka Sucic,Central Midfield,19,Croatia,Red Bull Salzburg,¢æ20.00m
+379,Hugo Guillam?n,Defensive Midfield,22,Spain,Valencia CF,¢æ20.00m
+380,J?r?my Doku,Right Winger,20,Belgium,Stade Rennais FC,¢æ20.00m
+381,Jeremie Frimpong,Right-Back,21,Netherlands,Bayer 04 Leverkusen,¢æ20.00m
+382,David Neres,Right Winger,25,Brazil,SL Benfica,¢æ20.00m
+383,Nico Gonz?lez,Central Midfield,20,Spain,Valencia CF,¢æ20.00m
+384,Maxence Lacroix,Centre-Back,22,France,VfL Wolfsburg,¢æ20.00m
+385,Nahuel Molina,Right-Back,24,Argentina,Atl?tico de Madrid,¢æ20.00m
+386,Caio Henrique,Left-Back,25,Brazil,AS Monaco,¢æ20.00m
+387,Nikola Milenkovi?,Centre-Back,24,Serbia,ACF Fiorentina,¢æ20.00m
+388,Francisco Trinc?o,Right Winger,22,Portugal,Sporting CP,¢æ20.00m
+389,Nicolas Seiwald,Central Midfield,21,Austria,Red Bull Salzburg,¢æ20.00m
+390,Samuel Chukwueze,Right Winger,23,Nigeria,Villarreal CF,¢æ20.00m
+391,Dod?,Right-Back,23,Brazil,ACF Fiorentina,¢æ20.00m
+392,Davide Frattesi,Central Midfield,22,Italy,US Sassuolo,¢æ20.00m
+393,Lovro Majer,Attacking Midfield,24,Croatia,Stade Rennais FC,¢æ20.00m
+394,Patson Daka,Centre-Forward,23,Zambia,Leicester City,¢æ20.00m
+395,Diogo Dalot,Right-Back,23,Portugal,Manchester United,¢æ20.00m
+396,Pervis Estupi??n,Left-Back,24,Ecuador,Brighton & Hove Albion,¢æ20.00m
+397,Nordi Mukiele,Right-Back,24,France,Paris Saint-Germain,¢æ20.00m
+398,Trevoh Chalobah,Centre-Back,23,England,Chelsea FC,¢æ20.00m
+399,Ben Godfrey,Centre-Back,24,England,Everton FC,¢æ20.00m
+400,Noussair Mazraoui,Right-Back,24,Morocco,Bayern Munich,¢æ20.00m
+401,Rico Henry,Left-Back,25,England,Brentford FC,¢æ20.00m
+402,Joelinton,Attacking Midfield,26,Brazil,Newcastle United,¢æ20.00m
+403,Ridle Baku,Right-Back,24,Germany,VfL Wolfsburg,¢æ20.00m
+404,Rafael Borr?,Centre-Forward,26,Colombia,Eintracht Frankfurt,¢æ20.00m
+405,Marcus Thuram,Centre-Forward,25,France,Borussia M?nchengladbach,¢æ20.00m
+406,David Raum,Left-Back,24,Germany,RB Leipzig,¢æ20.00m
+407,Lucas Torreira,Defensive Midfield,26,Uruguay,Galatasaray A.S.,¢æ20.00m
+408,Andrea Pinamonti,Centre-Forward,23,Italy,US Sassuolo,¢æ20.00m
+409,Mehdi Taremi,Centre-Forward,30,Iran,FC Porto,¢æ20.00m
+410,David Garc?a,Centre-Back,28,Spain,CA Osasuna,¢æ20.00m
+411,Kelechi Iheanacho,Centre-Forward,25,Nigeria,Leicester City,¢æ20.00m
+412,Taiwo Awoniyi,Centre-Forward,25,Nigeria,Nottingham Forest,¢æ20.00m
+413,Yerry Mina,Centre-Back,27,Colombia,Everton FC,¢æ20.00m
+414,Mario Hermoso,Centre-Back,27,Spain,Atl?tico de Madrid,¢æ20.00m
+415,Florian Neuhaus,Central Midfield,25,Germany,Borussia M?nchengladbach,¢æ20.00m
+416,Antonin Barak,Attacking Midfield,27,Czech Republic,Hellas Verona,¢æ20.00m
+417,Ricardo Horta,Left Winger,27,Portugal,SC Braga,¢æ20.00m
+418,Wilmar Barrios,Defensive Midfield,28,Colombia,Zenit St. Petersburg,¢æ20.00m
+419,Daniel Podence,Right Winger,26,Portugal,Wolverhampton Wanderers,¢æ20.00m
+420,Rafa Silva,Second Striker,29,Portugal,SL Benfica,¢æ20.00m
+421,Aritz Elustondo,Centre-Back,28,Spain,Real Sociedad,¢æ20.00m
+422,Moussa Demb?l?,Centre-Forward,26,France,Olympique Lyon,¢æ20.00m
+423,Ricardo Pereira,Right-Back,28,Portugal,Leicester City,¢æ20.00m
+424,Adama Traor?,Right Winger,26,Spain,Wolverhampton Wanderers,¢æ20.00m
+425,Ruben Loftus-Cheek,Central Midfield,26,England,Chelsea FC,¢æ20.00m
+426,Bryan Cristante,Defensive Midfield,27,Italy,AS Roma,¢æ20.00m
+427,Alejandro Grimaldo,Left-Back,26,Spain,SL Benfica,¢æ20.00m
+428,Ben Davies,Left-Back,29,Wales,Tottenham Hotspur,¢æ20.00m
+429,Stanislav Lobotka,Defensive Midfield,27,Slovakia,SSC Napoli,¢æ20.00m
+430,Fred,Central Midfield,29,Brazil,Manchester United,¢æ20.00m
+431,H?ctor Beller?n,Right-Back,27,Spain,Arsenal FC,¢æ20.00m
+432,Andrea Belotti,Centre-Forward,28,Italy,Without Club,¢æ20.00m
+433,Matteo Politano,Right Winger,29,Italy,SSC Napoli,¢æ20.00m
+434,Remo Freuler,Central Midfield,30,Switzerland,Nottingham Forest,¢æ20.00m
+435,Lewis Dunk,Centre-Back,30,England,Brighton & Hove Albion,¢æ20.00m
+436,Leandro Trossard,Left Winger,27,Belgium,Brighton & Hove Albion,¢æ20.00m
+437,Danny Ings,Centre-Forward,30,England,Aston Villa,¢æ20.00m
+438,Lorenzo Insigne,Left Winger,31,Italy,Toronto FC,¢æ20.00m
+439,Jordan Pickford,Goalkeeper,28,England,Everton FC,¢æ20.00m
+440,Geoffrey Kondogbia,Defensive Midfield,29,Central African Republic,Atl?tico de Madrid,¢æ20.00m
+441,Luis Muriel,Centre-Forward,31,Colombia,Atalanta BC,¢æ20.00m
+442,Leonardo Spinazzola,Left-Back,29,Italy,AS Roma,¢æ20.00m
+443,Michael Keane,Centre-Back,29,England,Everton FC,¢æ20.00m
+444,Granit Xhaka,Defensive Midfield,29,Switzerland,Arsenal FC,¢æ20.00m
+445,Philippe Coutinho,Left Winger,30,Brazil,Aston Villa,¢æ20.00m
+446,Lucas Moura,Right Winger,30,Brazil,Tottenham Hotspur,¢æ20.00m
+447,Christian Eriksen,Attacking Midfield,30,Denmark,Manchester United,¢æ20.00m
+448,Sergio Canales,Attacking Midfield,31,Spain,Real Betis Balompi?,¢æ20.00m
+449,Thiago,Central Midfield,31,Spain,Liverpool FC,¢æ20.00m
+450,Aleksandar Mitrovi?,Centre-Forward,27,Serbia,Fulham FC,¢æ20.00m
+451,Toni Kroos,Central Midfield,32,Germany,Real Madrid,¢æ20.00m
+452,Wendel,Central Midfield,24,Brazil,Zenit St. Petersburg,¢æ19.00m
+453,J?r?mie Boga,Left Winger,25,Cote d'Ivoire,Atalanta BC,¢æ19.00m
+454,Vanderson,Right-Back,21,Brazil,AS Monaco,¢æ18.00m
+455,Kamaldeen Sulemana,Left Winger,20,Ghana,Stade Rennais FC,¢æ18.00m
+456,Kouadio Kon?,Central Midfield,21,France,Borussia M?nchengladbach,¢æ18.00m
+457,Rayan Cherki,Right Winger,19,France,Olympique Lyon,¢æ18.00m
+458,Aaron Hickey,Left-Back,20,Scotland,Brentford FC,¢æ18.00m
+459,Arnaud Kalimuendo,Centre-Forward,20,France,Stade Rennais FC,¢æ18.00m
+460,Dwight McNeil,Left Winger,22,England,Everton FC,¢æ18.00m
+461,Youssouf Fofana,Central Midfield,23,France,AS Monaco,¢æ18.00m
+462,Mohammed Salisu,Centre-Back,23,Ghana,Southampton FC,¢æ18.00m
+463,Bryan Gil,Left Winger,21,Spain,Tottenham Hotspur,¢æ18.00m
+464,Pep?,Left Midfield,25,Brazil,FC Porto,¢æ18.00m
+465,Tariq Lamptey,Right-Back,21,Ghana,Brighton & Hove Albion,¢æ18.00m
+466,Noni Madueke,Right Winger,20,England,PSV Eindhoven,¢æ18.00m
+467,Enock Mwepu,Central Midfield,24,Zambia,Brighton & Hove Albion,¢æ18.00m
+468,Musa Barrow,Left Winger,23,The Gambia,Bologna FC 1909,¢æ18.00m
+469,Eric Garc?a,Centre-Back,21,Spain,FC Barcelona,¢æ18.00m
+470,Jack Harrison,Left Winger,25,England,Leeds United,¢æ18.00m
+471,Oliver Skipp,Defensive Midfield,21,England,Tottenham Hotspur,¢æ18.00m
+472,Vitaliy Mykolenko,Left-Back,23,Ukraine,Everton FC,¢æ18.00m
+473,Claudinho,Attacking Midfield,25,Brazil,Zenit St. Petersburg,¢æ18.00m
+474,Manor Solomon,Left Winger,23,Israel,Fulham FC,¢æ18.00m
+475,Ryan Sessegnon,Left Midfield,22,England,Tottenham Hotspur,¢æ18.00m
+476,Arthur,Defensive Midfield,26,Brazil,Juventus FC,¢æ18.00m
+477,Sergi?o Dest,Right-Back,21,United States,FC Barcelona,¢æ18.00m
+478,Alfonso Pedraza,Left-Back,26,Spain,Villarreal CF,¢æ18.00m
+479,Mason Holgate,Centre-Back,25,England,Everton FC,¢æ18.00m
+480,Noah Okafor,Centre-Forward,22,Switzerland,Red Bull Salzburg,¢æ18.00m
+481,Ch? Adams,Centre-Forward,26,Scotland,Southampton FC,¢æ18.00m
+482,Umar Sadiq,Centre-Forward,25,Nigeria,UD Almer?a,¢æ18.00m
+483,Todd Cantwell,Left Midfield,24,England,Norwich City,¢æ18.00m
+484,Kristoffer Ajer,Centre-Back,24,Norway,Brentford FC,¢æ18.00m
+485,Jonathan Ikon?,Right Winger,24,France,ACF Fiorentina,¢æ18.00m
+486,Philip Billing,Central Midfield,26,Denmark,AFC Bournemouth,¢æ18.00m
+487,Daniel James,Right Winger,24,Wales,Leeds United,¢æ18.00m
+488,Brahim D?az,Attacking Midfield,23,Spain,AC Milan,¢æ18.00m
+489,Lukas Nmecha,Centre-Forward,23,Germany,VfL Wolfsburg,¢æ18.00m
+490,Tom Davies,Central Midfield,24,England,Everton FC,¢æ18.00m
+491,Brais M?ndez,Right Winger,25,Spain,Real Sociedad,¢æ18.00m
+492,Ugurcan Cakir,Goalkeeper,26,Turkey,Trabzonspor,¢æ18.00m
+493,Moussa Niakhat?,Centre-Back,26,France,Nottingham Forest,¢æ18.00m
+494,Steven Bergwijn,Left Winger,24,Netherlands,Ajax Amsterdam,¢æ18.00m
+495,Mattia Zaccagni,Attacking Midfield,27,Italy,SS Lazio,¢æ18.00m
+496,Benjamin Bourigeaud,Right Midfield,28,France,Stade Rennais FC,¢æ18.00m
+497,Dean Henderson,Goalkeeper,25,England,Nottingham Forest,¢æ18.00m
+498,Joe Gomez,Centre-Back,25,England,Liverpool FC,¢æ18.00m
+499,Alex Telles,Left-Back,29,Brazil,Sevilla FC,¢æ18.00m
+500,Zeki Celik,Right-Back,25,Turkey,AS Roma,¢æ18.00m

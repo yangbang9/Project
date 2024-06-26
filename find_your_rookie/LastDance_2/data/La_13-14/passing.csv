@@ -1,0 +1,301 @@
+,name,age,position1,position2,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB,Rating
+0,Lionel Messi Barcelona,35, AM(CR),FW,29(2),2508,11,2.4,44.4,84.9,0.3,1.1,0.4,8.34
+1,Cristiano Ronaldo Real Madrid,37, M(L),FW,30,2545,9,1.6,31.9,80.2,0.3,0.8,0.1,8.27
+2,Sergio Álvarez Celta Vigo,36, GK,,3,270,-,-,35.7,62.6,-,10.3,-,8.26
+3,Gareth Bale Real Madrid,33, M(CLR),FW,24(3),2073,12,1.5,27.2,76.3,0.4,1.3,0.2,7.75
+4,Ivan Rakitic Sevilla,34, M(C),,29(4),2676,10,2.3,50.6,79.3,2.1,4.9,0.2,7.61
+5,Gabi Atletico,39, M(C),,35(1),3119,8,1.5,57.6,79.4,1.2,4.7,0.2,7.58
+6,Alexis Sánchez Barcelona,33, M(CLR),FW,27(7),2386,10,1.4,26.7,79.8,0.4,0.6,0.1,7.54
+7,Neymar Barcelona,30, AM(CLR),FW,19(7),1742,8,1.6,36.6,84.5,0.4,0.3,0.2,7.51
+8,Tiago Atletico,41, M(C),,21(1),1866,1,0.5,50.8,81.4,-,3.3,-,7.49
+9,Gerard Piqué Barcelona,35, D(C),,26,2311,-,0.2,60.5,90.2,-,5.7,0.1,7.49
+10,Javi Flores Elche,36, Midfielder,,1,75,-,2.0,33.0,78.8,1,2.0,-,7.48
+11,Sergio Ramos Real Madrid,36, D(CR),,32,2759,1,0.3,61.7,88.8,-,8.3,0.1,7.47
+12,Carles Puyol Barcelona,44, D(C),,5,429,-,0.2,44.2,92.3,-,1.2,-,7.46
+13,Ángel Di María Real Madrid,34, M(CLR),FW,27(7),2384,17,2.6,40.0,82.1,2.1,3.3,0.2,7.46
+14,Diego Godín Atletico,36, D(C),,34,3060,1,0.1,33.4,78.7,0.1,3.6,-,7.44
+15,Karim Benzema Real Madrid,34, FW,,34(1),2779,9,1.8,23.4,81.9,0.1,0.4,0.3,7.44
+16,Dani Alves Barcelona,39, D(R),M(CR),26(1),2388,3,1.3,68.0,87.3,1.1,2.1,0.1,7.44
+17,Felipe Mattioni Espanyol,34, D(R),,2,180,-,1.5,28.0,78.6,1,0.5,-,7.44
+18,Federico Fazio Sevilla,35, D(C),,27,2387,1,0.2,37.1,76.7,-,4.1,-,7.43
+19,Carlos Vela Real Sociedad,33, M(CLR),FW,35(2),3116,12,2.1,26.1,78.9,0.8,1.0,0.2,7.42
+20,Pepe Real Madrid,39, D(C),,30,2700,2,0.3,52.1,85.9,0.1,6.7,-,7.42
+21,Isco Real Madrid,30, M(CLR),FW,23(9),2001,6,2.2,43.6,88.0,0.9,1.7,0.5,7.41
+22,Ander Herrera Athletic Bilbao,33, M(C),,31(2),2577,5,1.6,46.7,80.6,0.5,2.2,0.4,7.4
+23,Diego Costa Atletico,34, FW,,34(1),2965,3,1.3,22.3,75.5,0.3,0.5,0.1,7.4
+24,Daniel Parejo Valencia,33, M(C),,28(3),2423,5,2.1,62.5,87.9,1.3,5.1,0.2,7.39
+25,Marc Bartra Barcelona,31, D(CR),DMC,17(3),1590,1,0.3,50.4,89.9,-,3.7,-,7.39
+26,Koke Atletico,30, M(CLR),,33(3),2818,13,1.9,43.4,80.6,1.6,1.8,0.3,7.39
+27,Rafinha Celta Vigo,30, M(CLR),,27(5),2437,5,1.6,36.8,83.0,0.6,3.0,0.1,7.36
+28,Andrés Iniesta Barcelona,38, M(CL),,27(8),2487,7,1.5,62.1,90.7,0.1,3.6,0.3,7.34
+29,Edu Albácar Elche,42, D(L),,18,1588,1,1.2,48.4,69.4,1.7,3.3,-,7.34
+30,Cesc Fàbregas Barcelona,35, M(CL),FW,28(7),2446,12,1.6,61.5,87.0,0.1,3.7,0.7,7.32
+31,Aritz Aduriz Athletic Bilbao,41, FW,,26(5),2410,7,1,18.0,61.7,0.1,0.2,0.1,7.32
+32,Luka Modric Real Madrid,37, M(C),,29(5),2651,6,1.5,58.4,89.7,0.7,6.1,0.1,7.31
+33,Javier Manquillo Atletico,28, D(LR),M(R),3,270,-,0.3,31.7,72.6,0.3,1.0,-,7.3
+34,Gurpegi Athletic Bilbao,42, D(C),M(C),27,2386,-,0.1,45.9,82.9,0.1,4.3,-,7.28
+35,Marcelo Real Madrid,34, D(L),M(L),24(4),2176,6,1.6,45.8,85.0,0.9,2.0,0.1,7.28
+36,Adriano Barcelona,38, D(CLR),M(L),24(2),2119,1,0.8,52.1,89.4,0.5,2.9,-,7.26
+37,Filipe Luís Atletico,37, D(L),,32,2879,2,0.8,40.1,80.2,0.6,1.4,-,7.25
+38,Keylor Navas Levante,35, GK,,37,3250,-,0.1,30.9,43.3,-,9.0,-,7.24
+39,Javi Jiménez Levante,35, Goalkeeper,,1(1),168,-,-,28.0,58.9,-,11.5,-,7.24
+40,Joseba Zaldua Real Sociedad,30, D(R),,10,890,-,1.3,31.4,72.3,0.6,1,-,7.24
+41,Asier Riesgo Osasuna,39, GK,,1(1),119,-,-,21.5,62.8,-,9,-,7.23
+42,Iker Muniain Athletic Bilbao,29, AM(CLR),,32(3),2730,3,0.9,34.2,82.7,0.4,1.8,0.1,7.23
+43,Antoine Griezmann Real Sociedad,31, AM(CLR),FW,31(4),2666,3,1,26.7,77.3,0.5,0.7,0.1,7.22
+44,Sergio Busquets Barcelona,34, DMC,,30(2),2656,1,0.6,75.4,92.5,-,4.4,-,7.21
+45,Daniel Carvajal Real Madrid,30, D(R),,25(6),2236,2,1.1,39.9,86.7,0.8,1.4,-,7.21
+46,Antonio Amaya Real Betis,39, D(C),,22(2),2027,1,0.5,27.8,72.3,0.1,3,-,7.21
+47,Jonathan Viera Valencia,33, AM(CLR),FW,1,79,-,-,38.0,84.2,-,-,-,7.21
+48,Cote Real Sociedad,33, D(L),,22,1911,5,0.8,36.3,78.7,1,2.8,-,7.21
+49,Stéphane Mbia Sevilla,36, D(C),M(C),18(1),1508,4,0.7,32.7,83.4,0.1,2.4,-,7.2
+50,Aymeric Laporte Athletic Bilbao,28, D(CL),,33(2),2948,-,0.3,47.9,81.9,0.1,5.3,-,7.2
+51,Mesut Özil Real Madrid,34, M(CLR),,2,134,-,5.0,36.0,83.3,2.5,0.5,-,7.18
+52,Víctor Sánchez Espanyol,35, D(LR),M(CL),32(1),2886,1,0.4,31.5,76.0,0.1,1.8,-,7.17
+53,Ignacio Camacho Malaga,32, D(C),M(C),27(6),2377,1,0.2,38.1,78.3,0.1,3.6,-,7.16
+54,Daniel Carriço Sevilla,34, D(C),DMC,22,1939,-,0.3,37.5,80.1,-,3.7,-,7.16
+55,Miranda Atletico,38, D(C),,32,2880,1,0.2,28.1,79.5,-,4.1,-,7.15
+56,Vicente Iborra Sevilla,34, M(C),,25(2),2121,2,0.4,35.9,77.0,-,2.7,0.2,7.15
+57,Markel Susaeta Athletic Bilbao,34, M(LR),,34(4),2978,12,2.1,27.8,78.8,2.2,0.4,-,7.15
+58,Sergio Escudero Getafe,33, D(L),M(L),18(1),1440,2,0.5,27.8,68.9,0.4,1.8,0.1,7.15
+59,Javier Mascherano Barcelona,38, D(C),M(C),27(1),2367,-,0.1,53.6,88.9,-,8.1,-,7.14
+60,Martín Montoya Barcelona,31, D(LR),M(R),12(1),1122,2,0.3,48.2,87.5,0.3,1.5,-,7.14
+61,Bruno Soriano Villarreal,38, M(C),,35(1),2940,2,0.6,49.6,85.5,-,3.1,0.2,7.14
+62,Patrick Ebert Real Valladolid,35, M(CLR),,13,1005,5,1.2,36.2,72.6,1.9,3.1,-,7.14
+63,Mateo Musacchio Villarreal,32, D(C),,32,2844,1,0.2,34.1,79.3,-,2.4,-,7.13
+64,Liassine Cadamuro Real Sociedad,34, D(CL),,4,360,-,1,46.8,84.0,1.3,5.8,-,7.13
+65,Nolito Celta Vigo,36, AM(CL),,24(11),2264,2,1.4,24.4,71.8,0.7,1.6,0.1,7.13
+66,Ander Iturraspe Athletic Bilbao,33, M(C),,31(2),2707,2,0.5,49.1,81.5,0.1,5.0,0.1,7.13
+67,Pedro Barcelona,35, M(CLR),FW,28(9),2367,8,1,27.1,84.5,0.6,0.5,0.1,7.13
+68,Fran Vélez Almeria,31, D(C),DMC,4,257,-,-,24.0,68.8,-,2.0,-,7.13
+69,Heinz Real Valladolid,35, Defender,,1,90,-,-,46.0,78.3,-,2.0,-,7.12
+70,Yacine Brahimi Granada,32, M(CLR),,33(2),2793,4,1.1,30.1,83.0,0.3,1.5,0.1,7.12
+71,Sebastián Dubarbier Almeria,36, D(L),M(L),26(1),2304,-,0.7,27.9,67.4,0.6,1.3,-,7.11
+72,Gabriel Paulista Villarreal,31, D(CR),,17(1),1473,1,0.1,25.8,83.9,-,4.7,-,7.11
+73,Alejandro Arribas Osasuna,33, D(C),,36,3198,1,0.2,28.9,78.5,-,3.4,-,7.1
+74,Fabián Orellana Celta Vigo,36, AM(CLR),,22(8),1956,6,1.5,25.9,76.5,1.1,1.2,0.2,7.1
+75,Mikel Balenziaga Athletic Bilbao,34, D(L),,31,2670,-,0.6,33.3,72.1,0.8,0.7,-,7.1
+76,Fran Rico Granada,35, M(C),,28(4),2471,5,2.1,47.9,82.6,1.8,5.0,0.1,7.1
+77,Carlos Peña Real Valladolid,39, D(CL),,37,3327,4,0.9,39.8,69.7,0.7,2.2,-,7.09
+78,Jordi Alba Barcelona,33, D(L),M(L),14(1),1202,2,1.2,65.0,89.4,0.5,1.2,-,7.08
+79,Pape Diop Levante,36, M(C),,33(1),2764,-,1.0,34.2,70.8,0.9,2.6,0.1,7.08
+80,Javi López Espanyol,36, D(R),DMC,33,2927,1,0.5,23.2,67.1,0.4,0.8,-,7.08
+81,Pablo Piatti Valencia,33, M(CLR),,13(4),1118,3,0.9,17.6,75,0.9,0.4,-,7.07
+82,Xabi Alonso Real Madrid,40, M(C),,23(3),2027,1,0.8,65.5,88,0.3,6.6,0.2,7.07
+83,Diego Colotto Espanyol,41, D(C),,30(1),2731,1,0.1,26.5,70.1,-,3.6,-,7.07
+84,Jeremy Mathieu Valencia,39, D(CL),,32,2824,-,0.3,45.1,82.8,0.1,4.7,-,7.07
+85,Xavi Barcelona,42, DMC,,26(4),2256,2,1.6,86.0,93,1.3,6.4,0.4,7.06
+86,Juanfran Atletico,37, D(R),,35,3150,4,0.8,31.3,79,0.6,1.5,-,7.06
+87,Stefan Mitrovic Real Valladolid,32, D(C),,16,1440,-,0.2,36.7,80.4,-,3.7,-,7.06
+88,Antonio Cotán Sevilla,27, Midfielder,,2,180,-,0.5,51.5,90.3,0.5,3.5,-,7.06
+89,Hicham Khaloua Almeria,27, Forward,,0(1),3,-,-,1.0,-,-,-,-,7.06
+90,Oriol Riera Osasuna,36, FW,,35(2),3022,-,0.9,27.5,68.2,0.1,0.6,-,7.05
+91,Andreu Fontàs Celta Vigo,32, D(C),DMC,35,3092,-,0.2,54.0,82.8,-,5.1,-,7.05
+92,Roberto Fernández Granada,43, GK,,32,2880,-,0.2,29.3,58.2,-,10.4,-,7.04
+93,David López Espanyol,33, D(C),DMC,33,2859,1,0.5,35.6,76.5,0.1,3.2,-,7.04
+94,Saúl Ñíguez Rayo Vallecano,27, D(CL),M(CLR),34,3009,1,0.2,49.9,78.5,0.1,4.6,-,7.04
+95,Simao Mate Levante,34, D(C),M(C),30(1),2581,-,0.2,27.0,73.0,0.1,1.8,-,7.04
+96,Mikel San José Athletic Bilbao,33, D(C),DMC,19(6),1799,1,0.2,38.8,77.9,-,5.0,-,7.04
+97,Marc Valiente Real Valladolid,35, D(C),,27(2),2384,1,0.2,35.6,82.3,-,3.9,-,7.04
+98,Giovani dos Santos Villarreal,33, AM(CLR),FW,26(4),2205,8,1.4,18.2,77.5,1.1,0.7,0.1,7.03
+99,Cani Villarreal,41, M(CLR),,24(1),1993,5,1.2,28.6,72.6,0.6,1.8,0.1,7.03
+100,Juanfran Levante,46, D(CL),,35,3106,1,0.5,26.0,65.9,0.2,2.2,-,7.03
+101,Sergio Sánchez Malaga,36, D(CR),,26(1),2330,1,0.1,30.4,81.4,-,3.7,-,7.03
+102,Charles Celta Vigo,38, FW,,29(1),2349,3,1.1,20.0,69.8,-,0.5,0.1,7.02
+103,Jordi Figueras Real Betis,35, D(C),,20(5),2003,-,0.2,33.7,72.6,-,3.3,-,7.02
+104,Adil Rami Valencia,36, D(C),,3,270,-,-,52.0,84.6,0.3,7.0,-,7.02
+105,Coke Sevilla,35, D(CLR),M(R),23(2),2081,1,0.3,32.0,77.3,0.3,1.8,-,7.01
+106,Carlos Bacca Sevilla,36, FW,,27(7),2290,5,1,14.6,67.5,-,0.1,0.1,7.01
+107,Weligton Malaga,43, D(C),,15(1),1278,-,0.1,31.8,81.1,-,2.8,-,7.01
+108,Jordan Lotiès Osasuna,38, D(C),DMC,30,2637,-,0.1,30.9,79.8,-,3.9,-,7.01
+109,Alejandro Gálvez Rayo Vallecano,33, D(C),M(C),26,2220,1,0.1,52.9,84.2,-,5.9,-,7.01
+110,Damiá Osasuna,40, D(LR),,32(2),2830,1,0.4,31.5,75.9,0.4,2.2,-,7.0
+111,Nordin Amrabat Malaga,35, M(CLR),FW,15,1314,4,1.7,26.5,77.6,1.3,0.7,0.1,7.0
+112,Sergio García Espanyol,39, M(CLR),FW,37,3259,8,1.9,22.2,63.6,0.6,1.1,0.3,7.0
+113,Markel Bergara Real Sociedad,36, M(C),,32,2729,2,0.3,36.0,83.5,-,3.2,-,7.0
+114,Rubén Pérez Elche,33, M(C),,31,2716,-,0.4,48.6,76.5,-,6.2,-,6.99
+115,Miku Getafe,37, FW,,3(2),292,1,0.8,15.2,84.2,-,0.4,-,6.99
+116,Jesús Rueda Real Valladolid,35, D(C),,33(1),2976,-,0.3,40.8,81.1,-,7.3,-,6.99
+117,Juan Bernat Valencia,29, D(L),M(CL),26(6),2484,2,0.6,33.2,86.5,0.4,0.8,-,6.99
+118,Mario Gaspar Villarreal,31, D(CR),M(R),36,3240,1,0.4,30.9,78.3,0.2,1.0,-,6.99
+119,Verza Almeria,36, M(C),,34,2936,3,1.4,44.0,78.4,0.9,5.4,-,6.98
+120,Ikechukwu Uche Villarreal,38, FW,,19(7),1657,2,0.9,18.1,71.9,-,0.2,0.1,6.98
+121,Loukas Vyntra Levante,41, D(CR),,31(2),2745,-,0.1,24.2,74.6,0.1,1.7,-,6.98
+122,Brayan Angulo Granada,33, D(L),,33(1),2938,1,0.2,37.5,78.4,0.3,1.2,-,6.98
+123,Jaime Real Valladolid,41, GK,,10,900,-,-,22.4,52.7,-,7.0,-,6.98
+124,Vitolo Sevilla,33, M(CLR),FW,25(4),2198,6,1.3,29.6,80.7,0.3,1.1,0.2,6.97
+125,Raúl García Atletico,36, M(CLR),FW,18(16),1710,3,0.5,18.8,51.9,0.1,0.4,0.1,6.97
+126,Joan Oriol Osasuna,36, D(L),,8(3),742,-,0.5,26.2,77.4,0.4,0.8,-,6.96
+127,Tiago Ilori Granada,29, D(C),,9,810,1,0.2,30.0,78.5,-,4.6,-,6.96
+128,Hernán Pellerano Almeria,38, D(C),,13,1061,-,0.2,34.2,77.9,-,3.6,-,6.96
+129,Lisandro López Getafe,33, D(C),,26,2202,1,0.2,29.1,70.8,-,2.5,-,6.96
+130,Jonny Celta Vigo,28, D(CLR),M(LR),23(3),2166,2,0.5,40.9,81.2,0.3,2.0,-,6.96
+131,Javi Guerra Real Valladolid,40, FW,,37,3161,1,0.6,29.3,72.5,0.1,0.8,-,6.96
+132,Arda Turan Atletico,35, AM(CLR),,22(8),1932,4,1.1,33.1,83.0,0.3,0.8,0.1,6.96
+133,Sofiane Feghouli Valencia,32, M(CR),,22(10),2067,8,1.1,23.6,73.5,0.8,0.8,-,6.96
+134,Rafa Getafe,37, D(CL),,26(3),2334,1,-,28.0,80.7,-,2.9,-,6.95
+135,Éver Banega Valencia,34, M(C),,14(4),1156,3,1.6,47.1,84.3,0.7,2.9,0.3,6.95
+136,Roberto Trashorras Rayo Vallecano,41, M(C),,36(1),3152,7,2.3,78.2,86.1,1.6,12.9,0.1,6.95
+137,Ibai Gómez Athletic Bilbao,32, AM(LR),,6(12),685,2,1.3,10.8,75.3,1.6,0.6,-,6.94
+138,Víctor Valdés Barcelona,40, GK,,26,2278,-,-,20.5,61.7,-,4.2,-,6.94
+139,Anaitz Arbilla Rayo Vallecano,35, D(CLR),,26(4),2384,-,0.5,43.0,83.1,0.3,3.8,-,6.94
+140,Willy Caballero Malaga,41, GK,,38,3420,-,-,27.4,62.1,-,9.8,-,6.94
+141,Cristhian Stuani Espanyol,36, AM(CLR),FW,28(6),2574,2,0.6,22.3,55.4,0.1,0.4,-,6.94
+142,Jeison Murillo Granada,30, D(C),,32,2838,1,0.1,32.7,85.1,-,5.0,-,6.94
+143,Esteban Almeria,47, GK,,38,3420,-,0.1,32.1,52.0,-,12.1,-,6.93
+144,David Navarro Levante,42, D(C),,29,2521,-,0.1,21.5,75.8,-,2.4,-,6.93
+145,Héctor Moreno Espanyol,34, D(CL),,32,2809,2,0.2,34.0,79.0,-,4.4,-,6.93
+146,Nélson Almeria,39, D(R),,14,1185,-,0.2,29.9,73.9,0.6,2.4,-,6.93
+147,Rafita Almeria,40, D(R),,24(2),2223,2,0.7,29.3,73.6,0.5,1.1,-,6.93
+148,Hugo Mallo Celta Vigo,31, D(CR),M(R),32(1),2838,1,0.6,41.5,77.6,0.5,1.9,0.1,6.93
+149,Javier Aquino Villarreal,32, AM(R),,18(9),1695,4,1,18.5,77.0,0.3,0.2,0.1,6.93
+150,Pedro León Getafe,35, M(LR),,33(3),2889,4,1.5,21.3,64.8,1.8,0.8,0.1,6.93
+151,Aleix Vidal Almeria,33, D(R),M(LR),36(2),3133,3,1.1,25.4,78.5,0.3,1.1,-,6.93
+152,Alfred N'Diaye Real Betis,32, D(C),M(C),16,1413,1,0.9,30.2,75.8,0.1,2.8,-,6.93
+153,Borja Fernández Getafe,41, M(C),,24(4),1967,2,0.4,31.6,66.2,-,3.3,-,6.92
+154,Asier Illarramendi Real Madrid,32, M(C),,15(14),1397,1,0.7,38.6,88.9,0.1,3.3,0.1,6.92
+155,Roque Santa Cruz Malaga,41, FW,,24(7),2140,2,1.0,25.0,71.6,0.1,0.2,-,6.92
+156,Alberto Moreno Sevilla,30, D(L),M(L),27(1),2409,-,0.6,28.6,78.5,0.5,1.2,-,6.92
+157,Carlos Martínez Real Sociedad,36, D(R),,24,2116,-,0.4,39.0,73.6,0.5,2.1,-,6.92
+158,Javi Fuego Valencia,38, M(C),,25(2),2236,-,0.3,48.6,85.7,-,3.5,-,6.91
+159,Duda Malaga,42, M(CLR),,20(4),1750,5,2.2,34.6,72.2,2,2.2,0.2,6.91
+160,Marc Bertrán Osasuna,40, D(R),,28(1),2454,3,0.6,29.9,73.6,0.8,1.7,-,6.91
+161,Emiliano Armenteros Osasuna,36, AM(CLR),,27(2),2248,3,1.7,32.0,72.2,1.5,2.1,-,6.91
+162,Andoni Iraola Athletic Bilbao,40, D(R),M(CR),28(5),2606,4,0.8,43.3,78.9,0.5,1.6,0.1,6.91
+163,Fernando Tissone Malaga,36, M(C),,25(1),2125,1,0.5,42.7,81.6,0.1,3.4,0.1,6.9
+164,Damián Suárez Elche,34, D(R),M(R),31,2760,1,1.2,35.9,74.4,1.2,2.1,-,6.9
+165,Miguel Ángel Moyá Getafe,38, GK,,26,2310,-,-,30.3,59.4,-,10.8,-,6.89
+166,Mario Suárez Atletico,35, D(C),M(C),16(1),1362,-,0.2,43.8,83.2,0.1,3.3,0.1,6.89
+167,Sidnei Espanyol,33, D(C),,11(1),1031,-,0.1,26.4,75.4,0.1,2.4,-,6.89
+168,Roberto Lago Getafe,37, D(L),,16(3),1526,-,0.5,28.7,72.7,0.3,1.2,-,6.89
+169,Raphaël Varane Real Madrid,29, D(C),,12(2),1085,1,0.1,43.1,89.1,0.1,3.7,0.1,6.89
+170,Íñigo Martínez Real Sociedad,31, D(C),,35,3123,-,0.2,39.7,82.1,-,5.7,-,6.89
+171,Marcos Angeleri Malaga,39, D(CR),,25(1),2228,1,-,25.0,78.0,0.1,2,-,6.89
+172,Dídac Vilá Real Betis,33, D(L),M(L),11(1),917,1,0.5,35.5,61.0,0.3,1.8,-,6.88
+173,Antonio Barragán Valencia,35, D(CR),M(R),17(3),1492,4,1.2,29.9,79.9,0.9,1.2,-,6.88
+174,Salva Sevilla Real Betis,38, M(CL),,16(5),1356,4,1.9,38.2,77.8,1.2,2.9,0.2,6.88
+175,José García Osasuna,25, Midfielder,,0(1),24,-,1,15.0,73.3,-,-,-,6.88
+176,Youssef El Arabi Granada,35, AM(C),FW,34(2),2801,2,0.8,18.3,64.1,0.1,0.6,-,6.88
+177,Toby Alderweireld Atletico,33, D(CR),,10(2),906,-,-,27.8,76.9,-,4.3,-,6.87
+178,Zé Castro Rayo Vallecano,39, D(C),,19,1702,1,0.6,53.4,80.9,0.2,9.3,-,6.87
+179,Esteban Granero Real Sociedad,35, M(CLR),,2(2),247,1,0.8,36.8,91.8,0.8,5,-,6.87
+180,Manuel Iturra Granada,38, DMC,,34,2956,-,0.4,39.0,85.7,-,3.3,-,6.86
+181,Ricardo Costa Valencia,41, D(C),,20,1717,-,0.2,38.7,86.7,-,3.8,-,6.86
+182,Jonas Valencia,38, AM(CLR),FW,23(8),2097,1,0.7,25.8,78.2,0.1,0.8,0.1,6.86
+183,Javi Varas Sevilla,40, GK,,5(1),495,-,-,25.5,57.5,-,7.0,-,6.86
+184,José Carlos Fernández Rayo Vallecano,35, M(LR),,1(2),125,-,0.7,19.0,78.9,0.3,0.7,-,6.86
+185,Nacho Real Betis,42, D(L),,15(1),1306,-,0.7,37.1,72.7,0.6,0.8,0.1,6.86
+186,Íñigo López Celta Vigo,40, D(C),,5(4),565,-,-,32.0,82.3,-,2.4,-,6.86
+187,Ion Ansotegi Real Sociedad,40, D(C),,18(6),1787,-,0.2,23.1,81.2,-,2.6,-,6.86
+188,David Villa Atletico,40, AM(L),FW,32(4),2431,4,0.8,13.1,68.5,-,0.2,0.1,6.85
+189,Álvaro Arroyo Getafe,34, D(R),,16(1),1448,-,0.2,23.1,64.1,0.2,0.2,-,6.85
+190,Fede Cartabia Valencia,29, AM(CLR),,16(9),1423,1,1.1,21.7,81.4,0.6,0.8,0.1,6.85
+191,Joaquín Larrivey Rayo Vallecano,38, FW,,24(11),2415,4,0.7,18.6,66.7,-,0.2,0.1,6.85
+192,Alberto de la Bella Real Sociedad,36, D(L),,16(1),1466,2,0.9,39.6,81.4,1.1,2.5,-,6.85
+193,Alexandre Song Barcelona,35, M(C),,12(7),1123,-,0.3,44.9,91.7,0.1,1.8,0.1,6.85
+194,Piti Granada,41, M(CLR),,20(6),1852,1,1.1,25.5,72.6,0.5,1.4,0.2,6.85
+195,Bojan Jokic Villarreal,36, D(CL),M(L),14(1),1236,1,0.5,25.5,78.5,0.4,0.9,-,6.84
+196,Antunes Malaga,35, D(L),M(L),36,3185,2,0.9,35.8,72.4,0.8,1.7,-,6.84
+197,Nicolás Pareja Sevilla,38, D(C),,23(2),1970,-,-,36.1,77.2,-,3.6,-,6.84
+198,Víctor Ruiz Valencia,33, D(C),,8(3),770,-,-,28.6,83.2,-,2.7,-,6.84
+199,Allan-Roméo Nyom Granada,34, D(LR),M(R),34,2869,2,0.6,28.1,75.9,0.6,0.8,-,6.83
+200,Jaume Costa Villarreal,34, D(LR),M(L),26(2),2376,1,0.5,30.9,77.1,0.3,1,-,6.83
+201,Jesús Gámez Malaga,37, D(LR),,28,2445,2,1,39.8,78.1,0.8,2.1,0.1,6.83
+202,Manu Molina Espanyol,30, AM(R),,0(1),31,1,2,11.0,63.6,2,-,-,6.83
+203,José Antonio Reyes Sevilla,39, M(CLR),,15(5),1176,6,1.3,25.2,68.0,0.7,1.2,0.4,6.83
+204,Diego Alves Valencia,37, GK,,27,2285,-,-,27.1,48.4,-,7.6,-,6.83
+205,Álvaro Arbeloa Real Madrid,39, D(LR),,14(4),1322,-,0.8,37.8,91.6,0.3,0.8,-,6.83
+206,David Barral Levante,39, FW,,25(7),2255,-,0.7,16.7,67.4,0.2,0.4,-,6.82
+207,Roberto Torres Osasuna,33, AM(CLR),,25(8),2282,3,1.8,25.9,70.1,1.6,1.1,-,6.82
+208,José Sosa Atletico,37, M(CLR),,4(10),433,5,1,16.1,68.1,1.1,0.8,0.1,6.82
+209,Mikel Rico Athletic Bilbao,38, M(C),,31(3),2600,1,0.4,39.9,78.7,0.1,2.8,0.1,6.81
+210,Fábio Coentrão Real Madrid,34, D(L),M(LR),8(2),661,-,0.5,25.6,82.8,0.3,0.9,-,6.81
+211,Domingo Cisma Elche,40, D(L),,18(1),1608,1,1.1,35.7,64.2,0.4,1.7,0.1,6.81
+212,Diego López Real Madrid,41, GK,,36,3240,-,-,22.3,69.1,-,6.1,-,6.81
+213,Suso Almeria,28, AM(CLR),FW,26(7),2265,7,1,21.5,72.2,0.8,1.8,0.1,6.81
+214,Nacho Real Madrid,32, D(CLR),,8(4),812,1,0.5,33.4,91.5,0.3,2.3,-,6.8
+215,Alberto Botía Elche,33, D(C),,33,2878,1,0.1,27.3,76.7,-,2.6,-,6.8
+216,Moi Gómez Villarreal,28, M(CLR),,15(2),1187,3,0.8,23.5,76.9,0.4,0.9,0.2,6.8
+217,Pape Malickou Diakhaté Granada,38, D(C),,14,1119,1,0.1,31.1,81.2,-,3.1,-,6.8
+218,Ángel Trujillo Almeria,35, D(C),,36,3240,-,0.2,22.6,75.1,-,2.4,-,6.8
+219,Andrés Guardado Valencia,36, D(L),M(CL),12(4),1045,-,0.8,32.0,82.2,0.4,1.7,0.1,6.79
+220,Hernán Pérez Villarreal,33, M(LR),,9(4),688,-,1.0,18.2,68.2,0.8,0.4,-,6.79
+221,Antonio Rukavina Real Valladolid,38, D(LR),M(R),34,3062,1,0.8,33.4,69.5,0.9,1.7,-,6.79
+222,Flavio Ferreira Malaga,31, D(C),,14(2),1325,-,0.1,31.3,80.6,-,3.9,-,6.79
+223,Toni Dovale Celta Vigo,32, D(L),M(R),11(1),995,2,1.2,41.3,78.0,1.7,1.2,-,6.79
+224,Borja Oubiña Celta Vigo,40, DMC,,24(1),2043,-,0.4,48.7,83.7,-,4.4,-,6.79
+225,Fernando Navarro Sevilla,40, D(CL),,21(2),1924,-,0.2,31.5,74.9,0.1,2.9,-,6.79
+226,Mikel González Real Sociedad,37, D(C),,20(1),1744,-,0.1,32.1,82.2,-,2.9,-,6.78
+227,Sergio Canales Real Sociedad,31, M(CLR),,13(3),1046,-,1.6,34.1,83.7,1.4,2.1,0.1,6.78
+228,Augusto Fernández Celta Vigo,36, M(CR),,29(4),2354,4,1.2,23.8,80.6,0.5,1.1,0.2,6.78
+229,Rubén Rochina Rayo Vallecano,31, M(CLR),,15(2),1131,-,0.2,24.5,80.5,0.1,2.1,-,6.78
+230,Sergi Darder Malaga,28, M(CL),,25(4),2225,2,0.7,34.0,81.2,0.1,2.7,-,6.77
+231,Xabier Etxeita Athletic Bilbao,35, D(C),,2(1),185,-,0.3,33.3,74.0,-,1.0,0.3,6.77
+232,Miguel Flaño Osasuna,38, D(C),,10(3),958,-,0.1,30.3,84.3,-,3.0,-,6.77
+233,Emiliano Insúa Atletico,33, D(CL),M(L),5(1),451,-,0.5,28.7,79.7,0.7,0.7,-,6.77
+234,Diego Perotti Sevilla,34, M(CLR),FW,3(7),403,1,1,17.7,86.4,1,0.7,-,6.77
+235,Manu Trigueros Villarreal,31, M(CLR),FW,23(10),2017,1,0.9,31.1,80.7,0.8,2.2,0.1,6.76
+236,Pedro López Levante,39, D(R),M(R),28(4),2547,1,0.3,22.4,71.0,0.2,0.5,-,6.76
+237,Pinto Barcelona,47, GK,,13(1),1236,-,-,20.0,71.4,-,3.8,-,6.76
+238,Xabi Prieto Real Sociedad,39, M(CLR),,18(12),1780,3,1.3,33.0,80.5,0.4,1.4,-,6.76
+239,Beto Sevilla,40, GK,,33,2927,-,0.1,28.2,56.4,-,8.4,-,6.76
+240,David Lombán Elche,35, D(C),,26(2),2379,-,-,29.1,85.2,-,4.6,-,6.76
+241,Gustavo Cabral Celta Vigo,37, D(C),,23,1956,-,-,40.6,86.1,-,3.3,-,6.76
+242,Rubén Castro Real Betis,41, AM(LR),FW,22(3),2019,1,1,21.6,79.5,0.2,0.6,0.1,6.76
+243,Álvaro Cejudo Osasuna,38, M(LR),,27(3),2059,3,0.8,19.7,76.7,0.5,1.0,-,6.76
+244,Rúben Vezo Valencia,28, D(CR),,5(3),491,-,-,28.1,78.2,-,1.6,-,6.76
+245,Seydou Keita Valencia,42, M(C),,9(2),760,-,0.5,32.9,78.2,0.1,1.8,0.1,6.76
+246,David Zurutuza Real Sociedad,36, M(CL),,19(8),1683,2,0.7,29.6,78.1,0.2,1.3,-,6.76
+247,Sami Khedira Real Madrid,35, M(C),,12(1),974,1,0.9,43.3,86.5,0.3,1.7,0.1,6.75
+248,Ángel Lafita Getafe,38, M(CLR),FW,22(7),1870,1,0.7,16.6,67.6,0.3,0.1,-,6.75
+249,Iago Falque Rayo Vallecano,32, AM(CLR),FW,26(2),2001,2,1.3,25.9,81.0,1.1,0.8,-,6.75
+250,Héctor Rodas Levante,34, D(C),,12(3),1142,-,0.1,17.9,74.6,0.1,1.9,-,6.75
+251,Javi Chica Real Betis,37, D(LR),,22(3),1944,-,0.5,29.8,70.1,0.5,2.0,-,6.75
+252,Diego Atletico,37, M(CLR),,4(9),510,1,0.9,23.9,85.2,0.2,1.2,0.2,6.74
+253,Juan Cala Sevilla,32, D(C),,9,771,-,-,33.9,77.4,-,3.2,-,6.74
+254,Rubén Pardo Real Sociedad,30, M(C),,21(14),1900,8,0.8,32.1,85.5,0.6,4.3,0.1,6.74
+255,Juankar Real Betis,32, D(L),M(L),18(2),1405,2,1,24.3,70.3,1.2,0.9,-,6.74
+256,Claudio Bravo Real Sociedad,39, GK,,37,3330,-,-,28.3,56.4,-,8.9,-,6.74
+257,Orestis Karnezis Granada,37, GK,,6,540,-,-,25.5,56.9,-,8.5,-,6.74
+258,Kevin Gameiro Sevilla,35, FW,,20(15),1890,3,0.8,14.2,77.7,0.1,0.1,-,6.73
+259,Gorka Iraizoz Athletic Bilbao,41, GK,,33,2926,-,-,30.5,52.5,-,7.6,-,6.73
+260,Tito Rayo Vallecano,37, D(CLR),,22(2),1892,1,0.5,32.5,79.4,0.3,1.3,-,6.73
+261,Thibaut Courtois Atletico,30, GK,,37,3330,-,-,18.0,55.0,-,6.1,-,6.73
+262,Francisco Silva Osasuna,36, D(C),M(C),29(2),2541,1,0.6,43.5,83.0,0.2,6.6,-,6.72
+263,Kike Sola Athletic Bilbao,36, FW,,2(3),226,-,-,10.4,61.5,-,-,-,6.72
+264,Juanfran Real Betis,34, D(R),M(R),28(6),2553,2,1.1,25.1,72.1,1.2,1.5,0.1,6.72
+265,Lolo Osasuna,38, D(C),M(C),18(3),1502,1,0.4,32.3,77.8,0.1,3.8,-,6.72
+266,Diogo Figueiras Sevilla,31, D(LR),M(R),19(3),1767,1,0.6,26.0,71.2,0.5,0.6,-,6.71
+267,Fausto Rossi Real Valladolid,31, M(C),,25(6),2258,3,0.8,34.0,73.7,0.7,3,0.1,6.71
+268,Manu Herrera Elche,41, GK,,29(1),2623,-,-,26.1,46.2,-,6.9,-,6.71
+269,Issam El Adoua Levante,36, D(C),DMC,9(8),995,-,0.4,16.5,70.5,0.1,1.2,-,6.7
+270,Marco Torsiglieri Almeria,34, D(C),,26(1),2368,-,0.2,25.0,73.9,-,1.9,-,6.7
+271,Carlos Clerc Espanyol,30, D(L),M(L),1,68,-,1.0,24.0,70.8,2,3.0,-,6.7
+272,Sergio Pelegrín Elche,43, D(C),,15(2),1387,1,0.1,29.2,78.6,-,3.1,-,6.7
+273,Óliver Torres Atletico,27, M(CLR),,2(5),214,-,0.7,17.3,79.3,0.6,1.7,-,6.7
+274,Jorge Molina Real Betis,40, FW,,25(7),2352,1,1.1,20.0,73.1,-,0.3,0.1,6.69
+275,Jonathan Viera Rayo Vallecano,33, AM(CLR),FW,18(8),1725,7,1.4,32.6,80.3,0.4,0.6,0.1,6.69
+276,Gonzalo Castro Real Sociedad,38, AM(LR),FW,12(11),1022,3,1.1,17.4,79.8,0.6,0.5,0.1,6.69
+277,Raoul Loé Osasuna,33, M(C),,14(5),1193,1,0.3,27.2,75.6,-,1.3,-,6.69
+278,Yoel Rodríguez Celta Vigo,34, GK,,35,3150,-,0.1,28.4,61.5,-,7.4,-,6.69
+279,Joan Verdú Real Betis,39, M(CR),,15(5),1363,1,2.0,42.4,82.6,1.4,3.2,0.3,6.69
+280,João Pereira Valencia,38, D(R),,23(2),2074,2,1,40.7,80.8,0.9,1.3,-,6.69
+281,Dorlan Pabón Valencia,34, AM(CLR),FW,11(2),913,-,0.8,24.3,80.4,0.9,1.6,0.1,6.69
+282,Carles Gil Elche,29, AM(CR),,29(3),2524,3,1.3,30.8,84.7,0.5,1.5,0.1,6.69
+283,Álvaro Rubio Real Valladolid,43, M(C),,28(3),2459,-,0.3,48.5,80.0,0.2,5.6,0.1,6.69
+284,Víctor Casadesús Levante,37, AM(C),FW,13(1),1051,2,0.8,24.1,63.3,0.2,0.7,0.1,6.69
+285,Andrés Fernández Osasuna,35, GK,,37,3301,-,-,33.6,52.2,-,12.7,-,6.68
+286,Javi Márquez Elche,36, M(C),,24(5),2072,-,1,26.6,75.4,0.6,2.4,-,6.68
+287,Oriol Romeu Valencia,31, DMC,,11(2),998,-,0.5,55.3,88.6,-,4.7,0.1,6.68
+288,Fuentes Espanyol,32, D(CL),,32(3),2949,1,0.4,20.3,72.5,0.4,0.4,-,6.68
+289,Michael Krohn-Dehli Celta Vigo,39, M(CLR),,21(10),1949,3,1,38.4,84.6,0.3,2.8,0.2,6.68
+290,Enric Saborit Athletic Bilbao,30, D(L),,2(3),192,-,0.4,17.6,85.2,0.4,0.8,-,6.68
+291,José Giménez Atletico,27, D(CR),,1,90,-,-,20.0,75.0,-,1.0,-,6.67
+292,Lorenzo Reyes Real Betis,31, DMC,,23(3),2021,-,0.5,37.4,85.0,0.1,2.8,-,6.67
+293,Paco Alcácer Valencia,29, AM(R),FW,17(6),1542,2,0.7,12.0,69.0,-,0.1,0.1,6.67
+294,Francisco Portillo Malaga,32, M(CLR),,19(5),1611,1,1.3,35.8,84.1,0.3,0.9,-,6.67
+295,Imanol Agirretxe Real Sociedad,35, FW,,21(10),1960,1,0.4,15.0,65.5,-,0.5,0.1,6.67
+296,Álex López Celta Vigo,34, M(C),,24(7),2015,2,0.8,27.0,84.3,0.4,2.2,-,6.66
+297,José Gayà Valencia,27, D(L),M(L),1,90,-,1,53.0,56.6,1,3.0,-,6.66
+298,Raúl Rodríguez Espanyol,35, D(CR),DMC,12(5),1134,-,0.1,21.6,74.9,-,1.5,-,6.66
+299,Aleksandar Pantic Villarreal,30, D(C),,6(1),506,-,-,20.4,83.2,-,1.3,-,6.66

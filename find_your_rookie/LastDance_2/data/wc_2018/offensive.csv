@@ -1,0 +1,491 @@
+,name,age,position1,position2,Apps,Mins,Goals,Assists,SpG,KeyP,Drb,Fouled,Off,Disp,UnsTch,Rating
+0,Eden Hazard Belgium,31, M(CLR),FW,6,518,3,2,2.8,2.5,6.7,4.5,-,2.2,2.2,8.51
+1,Yerry Mina Colombia,27, D(C),,3,301,3,-,1,0.3,0.3,1.7,-,-,0.3,8.35
+2,Isco Spain,30, M(CLR),FW,4,391,1,-,2.3,2.3,5.8,4.8,0.8,2.8,2,8.29
+3,Neymar Brazil,30, AM(CLR),FW,5,450,2,1,5.2,4.6,4.4,5.2,1.2,5.4,4,8.25
+4,Essam El Hadary Egypt,49, Goalkeeper,,1,90,-,-,-,-,-,-,-,-,-,8.23
+5,Kieran Trippier England,31, D(LR),M(R),6,577,1,1,0.5,4,0.8,1,0.2,0.5,1,8.03
+6,Lionel Messi Argentina,35, AM(CR),FW,4,360,1,2,4.5,2.5,5.8,4,-,4,2.3,7.87
+7,Oussama Haddadi Tunisia,30, D(CL),M(L),1,90,-,1,-,3,-,-,1,-,-,7.77
+8,Wilfred Ndidi Nigeria,25, D(C),DMC,3,270,-,-,1,0.7,1,2.3,-,0.3,1.3,7.77
+9,Kylian Mbappé France,23, AM(LR),FW,6(1),534,4,-,1.1,1.3,4.6,2,0.1,2,3,7.75
+10,Eden Hazard Belgium,31, M(CLR),FW,6,518,3,2,2.8,2.5,6.7,4.5,-,2.2,2.2,8.51
+11,Yerry Mina Colombia,27, D(C),,3,301,3,-,1,0.3,0.3,1.7,-,-,0.3,8.35
+12,Isco Spain,30, M(CLR),FW,4,391,1,-,2.3,2.3,5.8,4.8,0.8,2.8,2,8.29
+13,Neymar Brazil,30, AM(CLR),FW,5,450,2,1,5.2,4.6,4.4,5.2,1.2,5.4,4,8.25
+14,Essam El Hadary Egypt,49, Goalkeeper,,1,90,-,-,-,-,-,-,-,-,-,8.23
+15,Kieran Trippier England,31, D(LR),M(R),6,577,1,1,0.5,4,0.8,1,0.2,0.5,1,8.03
+16,Lionel Messi Argentina,35, AM(CR),FW,4,360,1,2,4.5,2.5,5.8,4,-,4,2.3,7.87
+17,Oussama Haddadi Tunisia,30, D(CL),M(L),1,90,-,1,-,3,-,-,1,-,-,7.77
+18,Wilfred Ndidi Nigeria,25, D(C),DMC,3,270,-,-,1,0.7,1,2.3,-,0.3,1.3,7.77
+19,Kylian Mbappé France,23, AM(LR),FW,6(1),534,4,-,1.1,1.3,4.6,2,0.1,2,3,7.75
+20,Edinson Cavani Uruguay,35, AM(LR),FW,4,344,3,-,4,0.5,1.8,1.5,-,2.3,2.5,7.75
+21,Harry Kane England,29, AM(C),FW,6,574,6,-,2.3,0.7,0.3,3.5,0.7,1.2,1.3,7.73
+22,Douglas Costa Brazil,32, M(CLR),,0(2),77,-,1,2,2.5,4,-,-,0.5,1.5,7.73
+23,Lovre Kalinic Croatia,32, GK,,1,90,-,-,-,-,-,1,-,-,-,7.73
+24,Cristiano Ronaldo Portugal,37, M(L),FW,4,360,4,-,5.3,1,1.8,3.5,0.3,1.5,2.8,7.73
+25,Adnan Januzaj Belgium,27, AM(CLR),,1,86,1,-,4,1,3,1,-,2,2,7.67
+26,Casemiro Brazil,30, DMC,,4,330,-,-,1,1,1.5,0.5,-,0.3,0.5,7.66
+27,Kevin De Bruyne Belgium,31, M(CLR),FW,6,540,1,2,2.2,3.8,0.8,0.5,-,1.8,1.3,7.65
+28,Rafal Kurzawa Poland,29, Midfielder,,1,80,-,1,2,2,1,2,-,2,1,7.61
+29,Aleksandr Golovin Russia,26, M(CLR),,4,403,1,2,0.8,1.5,1.3,1,-,2.5,2.5,7.61
+30,Jo Hyeon-Woo South Korea,30, Goalkeeper,,3,270,-,-,-,-,-,0.3,-,-,-,7.6
+31,Philippe Coutinho Brazil,30, M(CLR),,5,436,2,2,4.6,2.6,1.2,1.4,-,1.6,1.8,7.6
+32,Lukasz Fabianski Poland,37, GK,,1,90,-,-,-,-,-,-,-,-,-,7.57
+33,Andreas Granqvist Sweden,37, D(C),,5,450,2,-,1.2,0.8,0.4,1.2,-,-,0.2,7.54
+34,Mario Mandzukic Croatia,36, M(L),FW,6,609,3,1,2,1.3,0.3,2,0.5,1.3,1.5,7.53
+35,Kendall Waston Costa Rica,34, D(C),,1,90,1,-,1,-,-,1,-,-,-,7.53
+36,Peter Etebo Nigeria,26, M(CL),FW,3,270,-,-,2.3,1.7,5.3,3.7,-,2,1.3,7.52
+37,José Giménez Uruguay,27, D(CR),,4,360,1,-,0.8,0.3,0.3,0.3,-,-,0.3,7.52
+38,Antoine Griezmann France,31, AM(CLR),FW,7,571,4,2,3.1,1.4,1.1,1.6,0.3,1.1,1.1,7.51
+39,Kasper Schmeichel Denmark,35, GK,,4,390,-,-,-,-,-,-,-,-,-,7.51
+40,Wahbi Khazri Tunisia,31, M(CLR),FW,3,264,2,2,3.7,2.3,-,1.3,1.3,0.7,2,7.5
+41,Paul Pogba France,29, M(CL),,6,539,1,-,1.2,1.5,1.3,2.8,-,2,1.8,7.49
+42,Luka Modric Croatia,37, M(C),,7,694,2,1,1.6,2.6,2.1,1.7,-,1.4,1.3,7.48
+43,Toni Kroos Germany,32, M(C),,3,270,1,-,5,2.0,2.3,2.0,-,-,1.3,7.47
+44,Branislav Ivanovic Serbia,38, D(CR),,2,180,-,-,-,2.0,1.5,2.0,-,-,-,7.47
+45,Gylfi Sigurdsson Iceland,33, M(CLR),FW,3,270,1,-,3,1.7,3.7,1.3,-,2.3,2,7.44
+46,Son Heung-Min South Korea,30, M(CLR),FW,3,270,2,-,4.3,2.0,3,1.7,-,1.3,3,7.43
+47,Mario Fernandes Russia,31, D(R),M(R),4(1),473,1,1,0.2,0.8,-,1.2,0.2,0.2,1.2,7.41
+48,Ahmed Musa Nigeria,29, M(CLR),FW,2(1),208,2,-,1.3,0.7,3,1.0,0.3,1.7,3,7.39
+49,Juan Cuadrado Colombia,34, D(R),M(CLR),4,332,1,1,1.5,2.0,2.3,3.0,-,2,1.5,7.39
+50,Viktor Claesson Sweden,30, M(CLR),FW,5,434,-,2,1.2,1.6,1.2,1.2,-,2,1.0,7.38
+51,Artem Dzyuba Russia,34, FW,,4(1),333,3,2,1.6,1,0.6,2.0,0.6,2.2,2.6,7.37
+52,Thomas Meunier Belgium,31, D(R),M(R),5,450,1,2,1.2,1.4,0.8,0.2,-,0.6,1.4,7.36
+53,Denis Cheryshev Russia,31, AM(L),FW,3(2),305,4,-,2.6,-,1.2,0.2,-,0.6,0.6,7.36
+54,Hirving Lozano Mexico,27, AM(LR),FW,4,317,1,1,3.3,1.5,3.5,3.5,0.3,1.8,1.8,7.34
+55,Ivan Rakitic Croatia,34, M(C),,6(1),638,1,-,2.1,1.4,1.6,2.9,0.1,1.3,1.1,7.33
+56,Joel Campbell Costa Rica,30, AM(LR),FW,1(1),113,-,1,1.5,2,3.5,1.5,-,3.5,2.0,7.32
+57,Salem Al Dawsari Saudi Arabia,31, Midfielder,,3,270,1,-,2.3,1.7,4,2.0,0.3,2.3,2.7,7.32
+58,Thiago Silva Brazil,37, D(C),,5,450,1,-,1.4,0.2,-,0.6,-,-,0.2,7.31
+59,Ki Sung-Yeung South Korea,33, DMC,,2,180,-,-,1.5,0.5,0.5,1.5,-,0.5,0.5,7.31
+60,Felipe Baloy Panama,41, Defender,,0(1),21,1,-,1,-,-,-,-,-,-,7.3
+61,Guillermo Ochoa Mexico,37, GK,,4,360,-,-,-,-,-,0.3,-,-,-,7.29
+62,M'Baye Niang Senegal,27, AM(LR),FW,3,247,1,1,2.7,2,0.7,1.3,0.7,-,3,7.29
+63,Diego Godín Uruguay,36, D(C),,5,450,-,-,0.6,0.6,1,1,0.2,0.2,0.2,7.28
+64,Carl Mikael Lustig Sweden,35, D(CR),,4,352,-,-,0.3,1.5,0.3,0.8,-,-,0.5,7.28
+65,John Stones England,28, D(CR),,7,647,2,-,0.9,-,-,0.6,-,0.4,0.3,7.28
+66,Thorgan Hazard Belgium,29, M(CLR),FW,1(1),97,-,-,1.5,1.5,2,-,0.5,-,1,7.25
+67,Henrik Dalsgaard Denmark,33, D(CR),M(R),4,390,-,-,-,0.5,0.3,0.3,-,-,0.3,7.23
+68,Harry Maguire England,29, D(C),,6(1),646,1,1,1.6,0.9,0.7,0.9,-,0.3,0.9,7.22
+69,Aleksandar Mitrovic Serbia,28, FW,,3,269,1,-,4.7,0.3,0.7,2.3,1,3,2,7.22
+70,Djibril Sidibé France,30, D(CLR),M(R),1,90,-,-,-,3,-,-,-,-,2,7.22
+71,Ghaylen Chaaleli Tunisia,28, DMC,,1,90,-,-,1,-,1,3,-,2,1,7.22
+72,Roman Zobnin Russia,28, M(CLR),,5,511,-,1,1.4,0.8,1.2,1.8,-,1.2,1.2,7.21
+73,Nacho Spain,32, D(CLR),,2,160,1,-,0.5,1,1.5,2,-,-,-,7.21
+74,André Carrillo Peru,31, AM(LR),,3,259,1,-,1,2,3.3,1,0.3,3.3,2,7.2
+75,Presnel Kimpembe France,27, D(C),,1,90,-,-,-,-,-,2,-,-,1,7.18
+76,Aaron Mooy Australia,32, M(CLR),,3,270,-,-,1,3,1.3,0.3,-,0.3,0.3,7.17
+77,Miranda Brazil,38, D(C),,5,450,-,-,0.2,0.4,0.2,0.8,-,-,0.2,7.17
+78,Marcelo Brazil,34, D(L),M(L),4,280,-,-,1.3,2.3,1,0.8,-,0.5,0.5,7.16
+79,Juan Quintero Colombia,29, AM(C),,4,310,1,2,2,1.5,0.8,0.8,-,0.8,0.8,7.16
+80,Marouane Fellaini Belgium,34, M(C),,3(2),316,1,-,1,0.6,0.6,1.2,0.2,0.8,1,7.15
+81,Kenneth Omeruo Nigeria,28, D(C),,2,180,-,1,-,1,-,1.5,-,-,0.5,7.14
+82,Raphaël Varane France,29, D(C),,7,630,1,-,0.6,-,0.3,0.1,-,0.4,0.3,7.14
+83,Christian Eriksen Denmark,30, M(CLR),FW,4,390,1,1,3,1.5,1.3,0.8,-,1.8,2.8,7.14
+84,Amine Harit Morocco,25, AM(CLR),FW,1,82,-,-,3,2,6,2,-,5,1,7.13
+85,Ante Rebic Croatia,28, AM(CLR),FW,6,547,1,-,2.5,0.2,3.2,1.8,-,2,4.2,7.13
+86,Ivan Perisic Croatia,33, M(CLR),FW,7,632,3,1,3.1,1,0.7,0.7,0.4,0.7,0.7,7.13
+87,Thibaut Courtois Belgium,30, GK,,7,630,-,-,-,-,-,-,-,-,-,7.12
+88,Jae-Sung Lee South Korea,30, AM(CL),FW,3,270,-,1,2,1.7,1.7,0.3,-,1.7,1.3,7.12
+89,Diego Costa Spain,33, FW,,4,320,3,-,2.5,0.8,0.5,0.5,0.3,2.8,1.8,7.12
+90,Grzegorz Krychowiak Poland,32, D(C),M(C),3,270,1,-,0.7,0.7,-,2.7,-,1,0.7,7.12
+91,Steve Mandanda France,37, GK,,1,90,-,-,-,-,-,-,-,-,-,7.11
+92,Éver Banega Argentina,34, M(C),,2(1),216,-,2,1,1.3,2,1,-,1.7,2.3,7.11
+93,Luis Advíncula Peru,32, D(R),M(R),3,270,-,-,1,0.3,0.7,2.7,-,0.7,0.7,7.1
+94,Romelu Lukaku Belgium,29, AM(R),FW,6,476,4,1,2.2,0.7,1,0.5,0.2,1.5,2.5,7.1
+95,Xherdan Shaqiri Switzerland,30, M(CLR),,4,351,1,1,3.3,2.5,1.8,2.3,-,0.8,1.8,7.1
+96,Luis Suárez Uruguay,35, AM(CLR),FW,5,450,2,1,2.4,1.4,0.8,2.2,0.2,2.6,3,7.09
+97,Cristian Gamboa Costa Rica,32, D(R),,3,255,-,-,1,0.7,1,2,-,-,1,7.09
+98,Filipe Luís Brazil,37, D(L),,1(1),170,-,-,0.5,1.5,0.5,-,-,-,-,7.09
+99,Youssef En-Nesyri Morocco,25, FW,,0(1),18,1,-,1,-,-,-,-,-,1,7.09
+100,Gerard Piqué Spain,35, D(C),,4,391,-,-,2.3,0.5,-,0.5,-,-,0.8,7.09
+101,Dusan Tadic Serbia,33, AM(CLR),FW,3,263,-,1,1.0,2.3,1.3,1.3,-,1.3,3,7.08
+102,Benjamin Pavard France,26, D(CLR),M(R),6,540,1,-,0.7,0.3,0.2,0.8,-,0.2,0.7,7.08
+103,Ricardo Rodríguez Switzerland,30, D(CL),M(L),4,360,-,-,1.8,1.8,1.8,0.8,-,0.5,0.5,7.07
+104,Domagoj Vida Croatia,33, D(CR),,6,630,1,1,0.5,0.2,0.2,0.3,-,-,0.5,7.07
+105,Raphaël Guerreiro Portugal,28, D(L),M(CL),4,360,-,1,1.0,1.3,2,1.3,-,0.3,1,7.07
+106,Milan Badelj Croatia,33, M(C),,1(2),103,1,1,0.7,1,1,0.7,-,0.3,0.7,7.06
+107,Carlos Vela Mexico,33, M(CLR),FW,4,315,1,-,2.5,3,2.5,2.5,0.3,1.8,0.8,7.06
+108,Mats Hummels Germany,33, D(C),,2,180,-,-,3.0,-,0.5,0.5,-,0.5,-,7.05
+109,Nordin Amrabat Morocco,35, M(CLR),FW,3,256,-,-,0.3,1,4,2.7,0.3,2.3,2.7,7.05
+110,Sebastián Coates Uruguay,31, D(C),,1,90,-,-,-,-,-,-,-,-,-,7.05
+111,Takashi Inui Japan,34, AM(CLR),,3(1),292,2,1,2,0.5,0.3,2.3,0.3,1.8,2.3,7.05
+112,Ilya Kutepov Russia,29, D(C),,5,511,-,1,0.2,0.2,-,0.4,-,0.2,0.4,7.04
+113,N'Golo Kanté France,31, DMC,,7,595,-,-,0.1,0.3,0.9,0.6,-,0.6,0.7,7.04
+114,Alireza Beyranvand Iran,29, GK,,3,270,-,-,-,-,-,0.7,-,-,-,7.03
+115,Yuya Osako Japan,32, AM(CLR),FW,3(1),308,1,-,1.8,1.3,1.3,1.8,0.8,2.3,1.8,7.03
+116,Sergei Ignashevich Russia,43, D(C),,5,511,-,-,0.4,-,-,0.6,-,-,0.4,7.03
+117,Victor Moses Nigeria,31, M(CLR),,3,270,1,1,2.3,1.3,1.7,2,-,1.7,1.3,7.03
+118,Pepe Portugal,39, D(C),,4,360,1,-,0.8,-,1,1,-,-,0.5,7.03
+119,Sime Vrsaljko Croatia,30, D(LR),M(R),6,607,-,1,0.8,0.8,0.7,1.2,-,0.7,0.8,7.03
+120,Hamdi Nagguez Tunisia,29, Defender,,1(1),156,-,1,-,1.5,2,1,-,0.5,1,7.03
+121,Artur Jedrzejczyk Poland,34, D(CLR),,1,90,-,-,1,1,-,-,-,-,-,7.02
+122,Gary Cahill England,36, D(C),,1,90,-,-,-,-,-,-,-,-,-,7.02
+123,Lamine Gassama Senegal,32, D(R),,1,90,-,-,-,-,2,3,-,1,1,7.02
+124,Yun Young-Sun South Korea,33, Substitute,,1,90,-,-,-,-,-,-,-,-,2,7.02
+125,Sergio Busquets Spain,34, DMC,,4,391,-,1,1,0.8,0.8,3,-,0.8,1,7.02
+126,Kyle Walker England,32, D(CR),M(R),5,495,-,-,-,0.2,1,1,-,0.4,0.4,7.01
+127,Lee Yong South Korea,35, D(R),,3,270,-,-,0.3,0.7,0.7,1.7,-,0.3,-,7.01
+128,Thomas Delaney Denmark,31, DMC,,4,368,-,1,1,0.5,0.5,0.8,-,0.3,-,7.0
+129,Ramin Rezaeian Iran,32, Defender,,3,270,-,-,0.3,0.7,0.7,1,-,-,0.7,6.99
+130,Fagner Brazil,33, D(R),,4,360,-,-,-,0.8,0.5,0.8,-,0.8,-,6.99
+131,Mile Jedinak Australia,38, D(C),DMC,3,270,2,-,2,-,0.7,0.7,-,0.7,0.7,6.99
+132,James Rodríguez Colombia,31, AM(CLR),FW,2(1),152,-,2,1,1,2,0.7,0.3,1,0.7,6.98
+133,Nicolás Otamendi Argentina,34, D(C),,4,360,-,-,1,-,-,1.3,-,0.3,0.5,6.98
+134,Paolo Guerrero Peru,38, FW,,2(1),208,1,1,2.3,0.7,-,0.7,1,1.7,3,6.98
+135,Salman Al Faraj Saudi Arabia,33, Midfielder,,3,270,1,-,1,3.7,1.3,1.0,0.3,1,1.3,6.98
+136,Dedryck Boyata Belgium,31, D(C),,3,270,-,-,-,-,-,0.7,-,-,0.3,6.97
+137,Mohamed Salah Egypt,30, AM(CLR),FW,2,180,2,-,3,2,1.5,0.5,1.5,3.5,2.5,6.97
+138,Lucas Hernández France,26, D(CL),,7,590,-,2,0.7,0.6,0.9,2.1,-,1.1,0.6,6.97
+139,Óscar Murillo Colombia,34, Defender,,1,90,-,-,1,-,-,1.0,-,-,1,6.97
+140,Ola Toivonen Sweden,36, AM(C),FW,5,400,1,1,0.8,1,0.4,2.4,0.2,1.4,0.8,6.97
+141,Guillermo Varela Uruguay,29, D(LR),,2,180,-,-,-,1,0.5,1.0,-,0.5,2.5,6.97
+142,Nacer Chadli Belgium,33, M(CLR),FW,4(2),328,1,1,0.5,1.3,1.2,0.2,0.2,0.5,1.5,6.96
+143,Albin Ekdal Sweden,33, M(C),,5,421,-,-,0.6,0.2,1.8,1.6,-,1,1,6.96
+144,Keisuke Honda Japan,36, M(CR),,0(3),47,1,1,1.3,0.3,0.7,0.7,-,0.3,-,6.96
+145,Willian Brazil,34, AM(CLR),,5,362,-,1,1,1,2.2,2.0,-,2.6,1.4,6.96
+146,João Moutinho Portugal,36, M(C),,2(1),185,-,1,-,1.3,0.3,1.3,-,-,0.3,6.96
+147,David Ospina Colombia,34, GK,,4,391,-,-,-,-,-,0.5,-,-,-,6.96
+148,Davinson Sánchez Colombia,26, D(C),,4,391,-,-,0.5,0.3,-,0.5,-,-,1,6.95
+149,Nikola Milenkovic Serbia,24, D(CR),,3,270,-,-,-,-,-,0.3,-,-,-,6.94
+150,Yussuf Poulsen Denmark,28, AM(R),FW,3,269,1,-,0.7,0.3,2.3,0.7,0.3,2.7,3.3,6.94
+151,Andrés Iniesta Spain,38, M(CL),,3(1),285,-,1,1.3,1.8,1.8,1,-,0.5,1.3,6.94
+152,Jesús Gallardo Mexico,28, Midfielder,,4,335,-,-,0.3,0.5,0.8,-,-,0.3,0.8,6.94
+153,Julian Draxler Germany,28, AM(CLR),FW,2,136,-,-,3.0,2,2.5,0.5,-,0.5,1,6.94
+154,Jan Bednarek Poland,26, D(C),,2(1),225,1,-,0.3,-,0.3,1,-,-,-,6.94
+155,José Fonte Portugal,38, D(C),,4,360,-,-,0.8,0.3,-,1,-,0.3,-,6.93
+156,Axel Witsel Belgium,33, D(C),M(C),6,540,-,-,1.0,0.2,1,1.5,-,0.3,0.8,6.93
+157,Abdullah Otayf Saudi Arabia,30, midfielder,,3,244,-,1,0.7,0.7,0.7,2.7,-,0.3,1,6.93
+158,Emil Forsberg Sweden,30, AM(CLR),FW,5,417,1,-,2.8,0.6,1.4,2,-,1.8,1.8,6.93
+159,Jesse Lingard England,29, AM(CLR),FW,5(1),529,1,1,2.8,1,1.3,0.8,0.2,1.2,2.2,6.93
+160,Mesut Özil Germany,33, M(CLR),,2,180,-,-,1,5.5,2,1.0,-,3,1.5,6.93
+161,Toby Alderweireld Belgium,33, D(CR),,6,540,-,1,0.8,0.2,-,0.2,-,-,0.2,6.93
+162,Marcus Berg Sweden,36, FW,,5,428,-,-,3,0.4,0.4,2.2,1,0.6,1.6,6.93
+163,Nabil Dirar Morocco,36, D(LR),M(CR),2,180,-,-,0.5,0.5,1.5,0.5,-,1,1.5,6.93
+164,Alfred Finnbogason Iceland,33, FW,,3,264,1,-,1.7,1.3,1,0.7,0.3,2,2.0,6.92
+165,Genki Haraguchi Japan,31, M(CLR),,3,246,1,-,1,0.7,0.3,1.3,-,1.3,2.0,6.92
+166,Khalid Boutaïb Morocco,35, FW,,2,141,1,-,1.5,0.5,1,1.0,0.5,1,2.5,6.92
+167,Gabriel Jesus Brazil,25, AM(LR),FW,5,407,-,1,1.8,0.8,1.2,0.6,0.6,1.4,1.6,6.92
+168,Ahmed Hegazy Egypt,31, D(C),,3,270,-,-,-,-,0.3,0.3,-,0.7,0.7,6.92
+169,Jonas Hector Germany,32, D(L),M(CL),2,165,-,-,1,-,0.5,1.5,0.5,-,1.5,6.92
+170,Carlos Sánchez Uruguay,37, M(CR),,1(2),123,-,2,0.7,2,-,1.3,-,0.7,0.3,6.9
+171,Pedro Aquino Peru,27, Midfielder,,1(2),138,-,-,0.3,0.3,-,0.7,-,0.3,0.3,6.9
+172,Eduardo Salvio Argentina,32, M(CR),,2,146,-,-,0.5,1.5,1,2.5,-,-,1,6.9
+173,Pontus Jansson Sweden,31, D(C),,1(1),95,-,-,0.5,0.5,-,-,-,-,-,6.9
+174,Ruben Loftus-Cheek England,26, M(CLR),,3(1),274,-,1,0.8,1,3,1.5,-,1.8,1.5,6.89
+175,Stephan Lichtsteiner Switzerland,38, D(R),M(R),3,267,-,-,0.7,0.3,0.7,1.3,-,1,1.3,6.88
+176,Héctor Herrera Mexico,32, M(C),,4,360,-,-,1.3,0.5,2,1.5,0.3,1.5,2.5,6.88
+177,Jan Vertonghen Belgium,35, D(CL),,6,540,1,-,0.3,-,0.2,0.5,-,0.5,0.8,6.88
+178,Joshua Kimmich Germany,27, D(CR),DMC,3,270,-,-,1,3.7,0.3,4,-,0.3,0.3,6.87
+179,Vladimir Stojkovic Serbia,39, GK,,3,270,-,-,-,-,-,-,-,-,-,6.87
+180,Rodrigo Bentancur Uruguay,25, M(C),,5,365,-,1,0.6,0.4,1.2,1.4,-,1.4,1.6,6.87
+181,Lucas Torreira Uruguay,26, DMC,,3(2),304,-,-,0.4,0.6,0.2,1.2,-,1.4,1,6.86
+182,Gabriel Mercado Argentina,35, D(CR),,3,270,1,1,0.3,0.3,0.3,1.7,-,-,0.7,6.86
+183,Moussa Wagué Senegal,23, D(R),,2(1),196,1,-,0.3,1.3,1,0.3,-,0.3,1.7,6.86
+184,Nemanja Matic Serbia,34, DMC,,3,270,-,-,1.0,0.3,1.3,1.7,-,1.7,1.7,6.86
+185,Gaku Shibasaki Japan,30, M(C),FW,4,341,-,1,0.3,1.8,0.5,0.5,-,0.5,0.8,6.86
+186,Radamel Falcao Colombia,36, FW,,4,378,1,-,2.0,0.3,1.3,2.3,1,3.5,5.5,6.86
+187,Yuri Gazinskiy Russia,33, DMC,,3(1),267,1,-,0.5,0.3,0.3,0.8,-,-,0.8,6.86
+188,Badou Ndiaye Senegal,31, M(C),,1,81,-,-,1.0,1.0,1,-,-,-,-,6.86
+189,Fakhreddine Ben Youssef Tunisia,31, Forward,,3,270,1,-,2.3,1.3,-,2,-,0.3,1.3,6.86
+190,John Obi Mikel Nigeria,35, M(C),,3,268,-,-,-,1,1.3,0.3,-,1,1,6.86
+191,Giorgian de Arrascaeta Uruguay,28, AM(CLR),FW,1(1),86,-,-,0.5,2,1,1.0,-,1.5,2.5,6.86
+192,Leon Balogun Nigeria,34, D(CR),,3,270,-,-,1.3,-,0.3,0.3,-,0.3,0.7,6.85
+193,Sardar Azmoun Iran,27, AM(C),FW,3,270,-,-,1.3,0.7,0.7,1.0,-,1.7,2.7,6.85
+194,Sadio Mané Senegal,30, AM(CLR),FW,3,270,1,-,1,2,1.7,2.0,1.3,2.3,3.7,6.85
+195,Yuri Zhirkov Russia,39, D(L),M(CL),3,222,-,-,0.7,-,0.3,0.3,-,-,-,6.85
+196,Santiago Arias Colombia,30, D(R),,4,386,-,-,0.3,0.3,-,1.3,0.3,-,0.8,6.85
+197,Masoud Shojaei Iran,38, M(CL),FW,1,68,-,-,-,-,3,1.0,-,2,1,6.85
+198,Manuel Akanji Switzerland,27, D(CR),,4,360,-,-,0.3,-,0.5,1.5,-,0.3,0.3,6.85
+199,Kim Young-Gwon South Korea,32, D(C),,3,270,1,-,0.3,-,0.3,0.7,-,-,0.3,6.84
+200,Granit Xhaka Switzerland,29, D(L),M(C),4,360,1,-,1,0.8,0.8,1,-,0.8,1.3,6.84
+201,Miguel Trauco Peru,30, D(L),M(L),3,270,-,-,-,0.7,0.7,0.3,-,1.3,1.3,6.84
+202,Robin Olsen Sweden,32, GK,,5,450,-,-,-,-,-,0.2,-,-,-,6.84
+203,Gen Shoji Japan,29, D(C),,3,270,-,-,0.3,-,0.3,0.7,-,0.3,0.3,6.83
+204,Dusko Tosic Serbia,37, D(CL),,2,180,-,-,0.5,0.5,-,2,-,-,0.5,6.83
+205,Keita Baldé Senegal,27, AM(LR),FW,1,80,-,-,1,-,2,3,-,-,3,6.83
+206,Anderson Santamaría Peru,30, Defender,,1(1),135,-,-,-,-,-,-,-,-,-,6.82
+207,Maya Yoshida Japan,34, D(CR),,4,360,-,-,0.5,0.3,-,0.5,-,-,0.3,6.82
+208,Sergio Ramos Spain,36, D(CR),,4,391,-,-,1.3,0.8,-,1,-,-,-,6.82
+209,Alan Dzagoev Russia,32, M(CLR),FW,1(1),42,-,1,0.5,1.5,0.5,0.5,-,0.5,-,6.82
+210,Aleksandar Kolarov Serbia,36, D(CL),M(L),3,270,1,-,0.7,0.7,-,1.7,-,-,1,6.82
+211,Jacek Góralski Poland,29, DMC,,2,180,-,-,0.5,-,-,1.5,-,1,-,6.82
+212,Matías Vecino Uruguay,31, M(C),,5,416,-,-,0.8,0.2,0.4,0.6,-,0.4,0.8,6.82
+213,Marcos Rojo Argentina,32, D(CL),,3,226,1,-,1,0.3,0.3,1.0,-,-,0.3,6.82
+214,Ricardo Quaresma Portugal,38, AM(CLR),,1(2),116,1,-,1.7,0.7,1.7,0.7,-,1.3,1.7,6.82
+215,Ludwig Augustinsson Sweden,28, D(L),M(L),5,450,1,-,0.6,0.8,0.2,0.4,-,0.6,0.4,6.81
+216,Chicharito Mexico,34, FW,,4,330,1,1,1.8,1.5,1,1.8,0.5,1,1.3,6.81
+217,Rami Bedoui Tunisia,32, Substitute,,1,90,-,-,-,-,1,1.0,-,1,-,6.81
+218,Youri Tielemans Belgium,25, M(C),,2(2),175,-,2,1,1.3,0.8,0.8,-,0.3,-,6.81
+219,Olivier Giroud France,35, FW,,6(1),546,-,1,1.9,1,0.4,0.6,-,1.1,3.1,6.81
+220,Keylor Navas Costa Rica,35, GK,,3,270,-,-,-,-,-,0.7,-,-,-,6.81
+221,Hugo Ayala Mexico,35, D(C),,2,180,-,-,-,-,-,-,-,-,0.5,6.81
+222,Ashley Young England,37, D(LR),M(LR),5,463,-,1,0.4,1,0.4,0.6,-,1.4,0.4,6.8
+223,Roozbeh Cheshmi Iran,29, Defender,,1,90,-,-,1,-,-,-,-,1,1,6.8
+224,Pione Sisto Denmark,27, AM(CLR),FW,3(1),232,-,-,1,0.3,2.8,1.5,-,1,1.8,6.8
+225,David Silva Spain,36, M(CLR),FW,4,327,-,-,2.5,1.5,1.3,-,0.3,0.8,0.3,6.8
+226,Milad Mohammadi Iran,28, D(LR),M(L),0(2),55,-,-,-,-,1,0.5,-,0.5,1.5,6.8
+227,Saeid Ezatolahi Iran,25, DMC,,2,166,-,-,0.5,-,1.5,2,0.5,0.5,-,6.8
+228,Salif Sané Senegal,32, D(C),DMC,3,270,-,-,1.7,-,0.3,-,-,-,1.7,6.79
+229,Fabian Schär Switzerland,30, D(C),,3,270,-,-,0.3,-,-,1.3,-,0.3,1,6.79
+230,Wílmar Barrios Colombia,28, D(C),DMC,2(1),270,-,-,-,0.3,-,1,-,1.3,1,6.79
+231,Dylan Bronn Tunisia,27, D(C),,2,114,1,-,0.5,0.5,-,0.5,-,-,0.5,6.79
+232,Steven Zuber Switzerland,31, D(L),M(CLR),3,253,1,-,1.3,2.0,0.7,-,0.3,0.3,1.7,6.78
+233,Trent Sainsbury Australia,30, D(C),,3,270,-,-,0.3,0.7,0.3,1,-,0.3,0.3,6.78
+234,Dries Mertens Belgium,35, AM(CLR),FW,3(3),300,1,1,1.2,1.7,0.3,0.7,0.3,0.7,1,6.78
+235,Samuel Umtiti France,28, D(CL),,6,540,1,-,0.3,0.2,0.3,1.5,-,0.2,0.3,6.78
+236,Simon Kjaer Denmark,33, D(C),,4,390,-,-,-,0.5,-,0.3,-,-,-,6.78
+237,Diego Laxalt Uruguay,29, D(L),M(CL),3(1),301,-,-,0.3,0.8,0.5,1.3,-,0.3,0.5,6.78
+238,Hiroki Sakai Japan,32, D(CLR),M(R),4,360,-,-,0.5,0.5,0.5,1,0.3,0.3,1.5,6.78
+239,Paulinho Brazil,34, M(CR),,5,354,1,-,1.2,0.6,0.8,1.2,-,0.4,1.4,6.78
+240,Blaise Matuidi France,35, M(CL),,4(1),336,-,-,1,0.6,-,1,-,0.8,0.6,6.77
+241,Celso Borges Costa Rica,34, D(C),M(C),3,270,-,-,1.7,1,0.7,-,-,0.7,0.3,6.77
+242,Trézéguet Egypt,27, AM(LR),,3,239,-,-,2.7,0.7,1,0.3,-,1.7,1.7,6.77
+243,Luka Milivojevic Serbia,31, DMC,,2,171,-,-,-,0.5,-,1.5,-,1,0.5,6.77
+244,Romain Saïss Morocco,32, D(C),DMC,2,180,-,-,-,-,-,0.5,-,-,-,6.77
+245,Marcelo Brozovic Croatia,29, M(CR),,4(2),459,-,1,0.7,0.8,-,1,-,0.2,0.2,6.75
+246,Kári Árnason Iceland,39, D(C),DMC,2,180,-,-,-,0.5,-,0.5,-,-,-,6.74
+247,Jens Larsen Denmark,31, D(CLR),M(LR),3,270,-,-,0.7,0.7,0.3,-,-,0.3,1.7,6.74
+248,Daniel Carvajal Spain,30, D(R),,2(1),231,-,1,0.7,1.7,0.7,0.7,-,1,0.7,6.73
+249,Hakim Ziyech Morocco,29, M(CLR),,3,265,-,-,3,2,0.7,1,-,2.3,2.7,6.73
+250,Hong Chul South Korea,31, Defender,,1(1),96,-,-,-,-,0.5,0.5,-,0.5,-,6.73
+251,Dejan Lovren Croatia,33, D(C),,6(1),651,-,-,0.9,0.1,-,0.7,-,-,0.6,6.72
+252,Hwang Hee-Chan South Korea,26, AM(CLR),FW,2(1),203,-,-,0.7,0.7,2.3,1.7,-,0.3,2.3,6.72
+253,Thomas Müller Germany,33, M(CLR),FW,2(1),207,-,-,1.3,3.3,-,0.3,0.3,0.3,0.7,6.72
+254,Johan Djourou Switzerland,35, D(C),,1,90,-,-,1,-,-,3.0,-,-,-,6.71
+255,Maciej Rybus Poland,33, D(LR),M(LR),2,180,-,-,0.5,1,0.5,0.5,1,1,2,6.71
+256,Mathew Leckie Australia,31, M(CLR),,3,270,-,-,3.3,0.7,1.7,1.7,-,2.7,1.7,6.71
+257,Mateo Kovacic Croatia,28, M(CL),,1(4),183,-,1,0.8,1,1.2,1.4,-,0.6,0.6,6.71
+258,Vincent Kompany Belgium,36, D(C),,4(1),376,-,-,0.8,0.2,-,0.2,-,-,-,6.71
+259,Javier Mascherano Argentina,38, D(C),M(C),4,360,-,-,0.3,0.8,0.8,1.8,-,0.3,0.5,6.71
+260,Miguel Layún Mexico,34, D(LR),M(CLR),3(1),314,-,-,2.3,1.5,1,0.8,-,0.5,1,6.71
+261,Sergio Agüero Argentina,34, AM(CL),FW,2(2),178,2,-,1.5,0.3,0.8,0.3,0.5,0.3,2.3,6.71
+262,Carlos Salcedo Mexico,28, D(CR),,4,360,-,-,1.3,-,0.3,-,-,-,0.5,6.7
+263,Shinji Kagawa Japan,33, M(CL),,3,232,1,1,1.0,2,0.7,1.7,-,0.3,2.3,6.7
+264,Luis Muriel Colombia,31, AM(CL),FW,0(2),92,-,-,0.5,-,0.5,-,0.5,0.5,1.5,6.7
+265,Thiago Spain,31, M(C),,1(1),94,-,-,1.0,-,2,0.5,-,-,-,6.7
+266,Vahid Amiri Iran,34, AM(C),,3,266,-,-,0.7,0.7,1,3,0.3,-,1.7,6.69
+267,Tomoaki Makino Japan,35, Defender,,1,90,-,-,2.0,-,-,-,-,-,-,6.69
+268,Hussain Al Moqahwi Saudi Arabia,34, Midfielder,,1(1),136,-,-,2.5,1,-,2,-,0.5,0.5,6.69
+269,Johan Mojica Colombia,30, D(L),M(L),4,391,-,-,0.3,0.8,0.5,0.5,-,1,1.8,6.69
+270,Andreas Christensen Denmark,26, D(C),DMC,4,307,-,-,-,-,-,0.8,-,0.5,0.5,6.68
+271,Dele Alli England,26, M(CL),FW,4(1),364,1,-,1,0.6,0.2,1.8,0.2,0.6,1.4,6.68
+272,Ivan Strinic Croatia,35, D(L),,6,511,-,-,-,0.7,0.7,1.3,-,0.2,1.5,6.68
+273,Lasse Schöne Denmark,36, M(CLR),,1(2),219,-,-,1.3,-,0.3,0.7,-,0.3,1,6.68
+274,Mateus Uribe Colombia,31, DMC,,1(2),183,-,-,0.7,-,0.7,0.3,-,1.3,1.3,6.67
+275,Antonio Rüdiger Germany,29, D(CR),,1,90,-,-,-,-,-,1,-,-,-,6.67
+276,Jóhann Gudmundsson Iceland,31, AM(CLR),,2,153,-,-,1.5,1,0.5,0.5,-,1.5,1,6.67
+277,William Carvalho Portugal,30, DMC,,4,360,-,-,0.3,1,0.8,1,-,0.8,0.8,6.67
+278,Cédric Soares Portugal,31, D(LR),M(R),3,270,-,-,-,0.7,0.3,0.7,-,0.7,1,6.66
+279,Trent Alexander-Arnold England,23, D(R),M(R),1,79,-,-,1,2,-,-,1,1,2,6.66
+280,Jordi Alba Spain,33, D(L),M(L),4,391,-,-,0.5,1,0.8,0.8,0.3,0.3,0.5,6.66
+281,Ángel Di María Argentina,34, M(CLR),FW,3,237,1,-,1,0.7,1,2.3,1,2.3,1.3,6.66
+282,Igor Akinfeev Russia,36, GK,,5,511,-,-,-,-,-,-,-,-,-,6.66
+283,Koke Spain,30, M(CLR),,2(1),230,-,-,0.7,1.3,0.7,0.3,-,1.3,-,6.65
+284,Breel Embolo Switzerland,25, AM(CR),FW,1(3),134,-,1,1.3,0.5,1.3,1,-,1.3,1,6.65
+285,Thomas Lemar France,26, AM(CLR),,1,90,-,-,1,2,2,1,-,1,2,6.65
+286,Andreas Cornelius Denmark,29, FW,,2(1),163,-,-,0.3,1,0.3,1,-,-,2.3,6.64
+287,Christian Ramos Peru,33, D(C),,3,270,-,-,-,0.3,0.3,0.3,0.3,0.7,-,6.64
+288,João Mário Portugal,29, M(CLR),,3(1),261,-,-,0.3,1.5,0.8,0.8,-,1.8,1.5,6.64
+289,Medhi Benatia Morocco,35, D(C),,2,180,-,-,2.5,-,0.5,1,-,-,1,6.64
+290,Mehdi Taremi Iran,30, AM(L),FW,2(1),202,-,-,1,-,0.7,1.3,0.3,0.3,0.7,6.64
+291,Michy Batshuayi Belgium,28, FW,,1(2),113,1,-,2.7,0.3,1,0.3,0.7,1,0.3,6.64
+292,Yannick Carrasco Belgium,29, M(CLR),FW,3(1),239,-,-,1.5,0.8,1.5,1.3,-,0.8,1.3,6.64
+293,Blerim Dzemaili Switzerland,36, M(C),,4,326,1,-,2,0.8,0.8,1,-,1,2.5,6.64
+294,Younès Belhanda Morocco,32, M(CL),,3,228,-,-,2,0.3,1,1.7,-,0.7,2,6.64
+295,Andrés Guardado Mexico,35, D(L),M(CL),4,307,-,-,1.5,1,1,0.5,-,1.3,1.5,6.64
+296,Jung Woo-Young South Korea,32, D(C),DMC,1(2),127,-,-,1,-,0.3,0.7,-,0.7,0.3,6.63
+297,Jordan Henderson England,32, D(C),M(CLR),5,483,-,-,0.8,0.2,-,0.6,-,0.6,0.4,6.63
+298,Mario Gavranovic Switzerland,32, FW,,1(1),114,-,1,2,1.5,-,1.5,1,0.5,1,6.63
+299,Mouez Hassen Tunisia,27, GK,,1,15,-,-,-,-,-,-,-,-,-,6.63
+300,Victor Lindelöf Sweden,28, D(CR),,4,360,-,-,-,-,0.3,-,-,-,0.3,6.62
+301,Nahitan Nández Uruguay,26, M(CLR),,4(1),293,-,-,0.2,0.2,0.6,1.4,-,0.8,1.6,6.62
+302,Leon Goretzka Germany,27, M(CR),,1,63,-,-,2,1,1,1,-,-,1,6.62
+303,Óscar Duarte Costa Rica,33, D(C),DMC,2,180,-,-,0.5,1,1,0.5,-,-,-,6.62
+304,Martín Cáceres Uruguay,35, D(CLR),M(R),5,450,-,-,1.4,0.6,0.6,0.4,-,1,0.8,6.62
+305,Renato Tapia Peru,27, D(C),DMC,2,150,-,-,0.5,1,-,1,-,0.5,0.5,6.62
+306,Aleksandr Samedov Russia,38, AM(CR),,5,359,-,-,0.4,1,1,1.6,-,0.2,2,6.61
+307,Valon Behrami Switzerland,37, M(C),,4,311,-,-,0.3,-,0.5,1.3,-,0.3,1.3,6.61
+308,Tomas Rogic Australia,29, AM(C),,3,226,-,-,1.7,-,3,1.3,-,3.7,1.7,6.61
+309,Yuto Nagatomo Japan,36, D(LR),M(LR),4,360,-,1,0.3,0.8,0.8,0.8,-,0.3,0.5,6.61
+310,Abdalla El Said Egypt,37, AM(C),,3,232,-,1,0.7,1.3,0.3,0.7,-,0.3,0.3,6.6
+311,Hugo Lloris France,35, GK,,6,540,-,-,-,-,-,-,-,-,-,6.6
+312,Sergej Milinkovic-Savic Serbia,27, AM(C),,3,270,-,-,1.7,1.7,1.3,0.7,0.7,4,2.7,6.6
+313,Alireza Jahanbakhsh Iran,29, AM(CLR),,2(1),171,-,-,0.7,0.7,1,1.3,-,1,0.3,6.6
+314,Giancarlo González Costa Rica,34, D(C),,3,270,-,-,0.7,-,-,0.7,-,-,-,6.6
+315,Adolfo Machado Panama,37, D(CR),,1,90,-,-,-,-,-,-,-,-,-,6.59
+316,Zanka Denmark,32, D(C),,2(1),219,1,-,0.3,-,-,0.7,-,-,-,6.59
+317,Ricardo Avila Panama,25, Midfielder,,1(1),108,-,1,0.5,0.5,2,1,-,2,1,6.59
+318,Yohan Benalouane Tunisia,35, D(CR),,0(1),49,-,-,-,-,-,1,-,-,-,6.59
+319,Jefferson Farfán Peru,37, M(CR),FW,1(1),130,-,-,2,1,0.5,3,-,1,-,6.59
+320,Michal Pazdan Poland,34, D(C),,2,170,-,-,-,-,-,-,-,-,-,6.59
+321,Raheem Sterling England,27, M(CLR),FW,6,456,-,1,1.7,1.2,1.3,1.3,0.5,2.5,1.5,6.59
+322,Aymen Balbouli Tunisia,38, GK,,1,90,-,-,-,-,-,1,-,-,-,6.58
+323,Danilo Brazil,31, D(CLR),DMC,1,90,-,-,-,-,1,1,-,-,-,6.58
+324,Leander Dendoncker Belgium,27, D(C),M(C),1,90,-,-,-,-,-,1,-,1,-,6.58
+325,Edison Flores Peru,28, AM(CLR),FW,3,242,-,-,1.3,0.7,0.7,0.7,-,2.3,2.7,6.57
+326,Hannes Halldórsson Iceland,38, GK,,3,270,-,-,-,-,-,0.3,-,-,-,6.57
+327,Nicolai Jørgensen Denmark,31, FW,,2(1),212,-,1,1.3,1.7,-,-,0.7,0.3,3,6.57
+328,Niklas Süle Germany,27, D(CR),,1,90,-,-,1,1,-,1,-,-,1,6.57
+329,Achraf Hakimi Morocco,23, D(LR),M(R),3,270,-,-,0.3,1.3,1.3,-,-,2,1.7,6.57
+330,Bernardo Silva Portugal,28, M(CLR),FW,3(1),238,-,-,0.5,1,1.8,1,-,0.8,2.5,6.57
+331,Karim Ansarifard Iran,32, FW,,2(1),178,1,-,1.3,0.3,0.3,0.7,-,0.7,1,6.56
+332,Bartosz Bereszynski Poland,30, D(CLR),M(R),2(1),169,-,-,-,0.7,0.7,0.7,-,1.3,-,6.56
+333,Maximiliano Meza Argentina,29, AM(CLR),,2(2),208,-,-,0.8,1.8,1.3,1.8,0.3,0.5,2.3,6.56
+334,Pedro Gallese Peru,32, GK,,3,270,-,-,-,-,-,0.7,-,-,-,6.56
+335,Jordan Pickford England,28, GK,,7,691,-,-,-,-,-,0.4,-,-,-,6.56
+336,Alfred N'Diaye Senegal,32, D(C),M(C),2,152,-,-,0.5,-,0.5,-,-,0.5,-,6.56
+337,Yasser Al Shahrani Saudi Arabia,30, Defender,,3,270,-,-,1.7,1,1.3,0.7,-,0.3,1.3,6.55
+338,Duje Caleta-Car Croatia,25, D(C),,1,90,-,-,-,-,-,-,1,-,-,6.55
+339,Morteza Pouraliganji Iran,30, D(C),,3,270,-,-,-,-,-,0.7,-,-,0.3,6.55
+340,Farouk Ben Mustapha Tunisia,33, Goalkeeper,,1(1),166,-,-,-,-,-,0.5,-,-,-,6.55
+341,Mark Milligan Australia,37, D(C),DMC,3,270,-,-,-,0.3,-,-,-,-,-,6.54
+342,Vedran Corluka Croatia,36, D(C),,1(3),119,-,-,-,-,0.8,-,-,-,-,6.54
+343,Sami Khedira Germany,35, M(C),,2,118,-,-,1.5,0.5,0.5,0.5,-,2.5,-,6.54
+344,Ehsan Hajsafi Iran,32, D(L),M(C),3,215,-,-,0.7,-,0.7,2,-,-,1.7,6.53
+345,Edson Álvarez Mexico,24, D(C),DMC,3(1),267,-,-,-,0.3,1.5,1,-,1,0.5,6.53
+346,Aron Gunnarsson Iceland,33, M(C),,3,253,-,-,0.7,1,0.7,-,-,1,1,6.53
+347,Francis Uzoho Nigeria,23, GK,,3,270,-,-,-,-,-,0.3,-,-,-,6.53
+348,Hárold Cummings Panama,30, D(C),,0(1),45,-,-,-,-,-,-,-,-,-,6.53
+349,Ilkay Gündogan Germany,31, M(C),,0(1),59,-,-,1,1,-,1,-,2,1,6.53
+350,Jón Bödvarsson Iceland,30, AM(L),FW,1,71,-,-,-,1,1,1,-,-,2,6.53
+351,Naïm Sliti Tunisia,30, AM(CL),,2(1),182,-,-,2,0.7,2.3,1,-,1.7,0.3,6.53
+352,Omid Ebrahimi Iran,35, Midfielder,,3,260,-,-,0.3,0.3,0.3,0.7,-,-,1.3,6.53
+353,Fabian Delph England,32, D(L),M(CL),2(2),220,-,-,0.8,0.8,1.3,0.8,0.3,0.8,0.3,6.53
+354,Gonçalo Guedes Portugal,25, AM(CLR),FW,3(1),245,-,1,1.3,0.8,0.5,1.5,0.5,2,1,6.53
+355,Gustav Svensson Sweden,35, D(C),DMC,1(2),132,-,-,-,0.3,0.3,-,-,-,-,6.53
+356,Ragnar Sigurdsson Iceland,36, D(C),,3,226,-,-,-,0.3,-,-,-,-,-,6.53
+357,Steven Nzonzi France,33, M(C),,1(4),141,-,-,-,0.2,-,0.4,-,-,-,6.53
+358,Idrissa Gueye Senegal,32, M(C),,3,270,-,-,0.7,-,-,0.7,-,0.3,1,6.52
+359,Brian Idowu Nigeria,30, D(CLR),M(CLR),3,226,-,-,-,0.3,-,0.7,-,0.3,0.3,6.52
+360,Ellyes Skhiri Tunisia,27, DMC,,3,270,-,-,-,0.7,0.7,-,-,0.7,0.3,6.52
+361,Renato Augusto Brazil,34, M(CLR),FW,0(3),50,1,-,1,-,0.3,0.3,-,0.3,0.7,6.52
+362,Eiji Kawashima Japan,39, GK,,4,360,-,-,-,-,-,-,-,-,-,6.52
+363,Ju Se-Jong South Korea,31, Substitute,,1(1),85,-,1,-,0.5,-,0.5,-,1,-,6.52
+364,Ismaïla Sarr Senegal,24, AM(CLR),FW,3,270,-,-,1,0.3,1.7,2,0.3,-,2,6.51
+365,Paolo Hurtado Peru,32, AM(C),FW,0(1),27,-,-,-,-,1,-,-,-,1,6.51
+366,Roberto Firmino Brazil,30, M(CLR),FW,0(4),82,1,-,1.8,0.3,0.3,0.3,-,0.8,0.8,6.51
+367,Moubarak Boussoufa Morocco,38, M(C),,3,270,-,-,-,1,0.7,3,-,1.7,1,6.51
+368,Marco Reus Germany,33, M(CLR),FW,2(1),211,1,1,2,0.7,-,0.3,0.3,0.3,1.7,6.51
+369,Bryan Oviedo Costa Rica,32, D(L),M(L),2,180,-,-,1.5,0.5,-,-,-,0.5,-,6.5
+370,Hördur Magnússon Iceland,29, D(CL),,3,270,-,-,0.7,-,0.7,-,-,0.3,1.3,6.5
+371,Josip Pivaric Croatia,33, D(L),,1(3),200,-,-,0.5,0.5,2,-,-,0.3,0.8,6.5
+372,Héctor Moreno Mexico,34, D(CL),,3,270,-,-,0.7,0.7,-,-,-,-,-,6.5
+373,Mohamed Shafy Egypt,37, Defender,,3,270,-,-,-,0.3,0.7,0.7,-,-,0.7,6.49
+374,Andrej Kramaric Croatia,31, AM(CLR),FW,3(4),332,1,-,1.6,1,0.4,0.4,0.4,0.9,0.6,6.49
+375,Thiago Cionek Poland,36, D(CR),,1,90,-,-,-,-,1,2,-,-,1,6.49
+376,David Guzmán Costa Rica,32, DMC,,3,246,-,-,0.3,0.7,0.7,0.3,-,2.7,0.7,6.49
+377,Mario Gomez Germany,37, FW,,0(3),88,-,1,1.7,1,-,-,0.3,0.3,-,6.49
+378,Amr Warda Egypt,28, Midfielder,,1(2),147,-,-,0.7,0.7,1,1.7,-,0.3,1.3,6.49
+379,Sverrir Ingason Iceland,29, D(C),,1(1),115,-,-,1.5,-,-,-,-,-,0.5,6.49
+380,Kamil Glik Poland,34, D(C),,1(1),100,-,-,0.5,-,-,0.5,-,-,-,6.48
+381,Phil Jones England,30, D(CR),DMC,2,180,-,-,-,-,-,1,-,-,1.5,6.48
+382,Kelechi Iheanacho Nigeria,25, AM(C),FW,2(1),148,-,-,1,1.7,1.3,0.3,0.3,1.3,1,6.48
+383,Francisco Calvo Costa Rica,30, D(CL),,1(1),106,-,-,0.5,-,-,-,-,-,1,6.48
+384,Marwan Mohsen Egypt,33, FW,,3,209,-,-,1,0.3,0.7,1.3,0.3,2.3,3,6.47
+385,Kamil Grosicki Poland,34, AM(LR),,2(1),213,-,1,1.7,1.7,0.3,0.7,-,1.3,1.7,6.47
+386,Piotr Zielinski Poland,28, M(CL),,3,259,-,-,1.3,0.7,1.3,0.7,-,0.7,1.3,6.47
+387,William Kvist Denmark,37, DMC,,1,36,-,-,-,-,-,1,-,-,1,6.47
+388,Josip Drmic Switzerland,30, AM(LR),FW,1(2),112,1,-,1.3,0.3,-,0.3,-,-,0.7,6.46
+389,Kalidou Koulibaly Senegal,31, D(C),,3,270,-,-,-,-,-,-,-,-,0.3,6.46
+390,Danijel Subasic Croatia,37, GK,,6,630,-,-,-,-,-,0.3,-,-,-,6.45
+391,Mathew Ryan Australia,30, GK,,3,270,-,-,-,-,-,-,-,-,-,6.45
+392,Rui Patrício Portugal,34, GK,,4,360,-,-,-,-,-,0.5,-,-,0.3,6.45
+393,Ahmed Fathy Egypt,37, Midfielder,,3,270,-,-,0.3,1,0.3,0.3,-,0.7,0.7,6.45
+394,Birkir Saevarsson Iceland,37, D(R),,3,270,-,-,-,-,-,0.3,-,-,-,6.45
+395,Jang Hyun-Soo South Korea,30, D(C),,3,270,-,-,-,-,0.7,1,-,-,0.3,6.45
+396,Mohammed Al Burayk Saudi Arabia,30, Defender,,3,270,-,-,1,-,0.3,3,-,0.3,2,6.45
+397,Robert Lewandowski Poland,34, FW,,3,270,-,-,3,0.7,1,1.7,0.3,1.7,4.7,6.44
+398,Sebastian Larsson Sweden,37, M(CR),,4,318,-,-,0.3,1,-,0.5,-,0.3,0.8,6.44
+399,Abdiel Arroyo Panama,28, Forward,,0(2),30,-,-,-,1.5,0.5,-,0.5,0.5,-,6.44
+400,Daniel Colindres Costa Rica,37, Substitute,,1(1),98,-,-,1.5,0.5,0.5,1.5,-,2,2,6.44
+401,Fernando Muslera Uruguay,36, GK,,5,450,-,-,-,-,-,0.2,-,-,-,6.43
+402,Park Joo-Ho South Korea,35, D(L),DMC,1,28,-,-,-,-,1,1,-,-,1,6.43
+403,Sam Morsy Egypt,31, M(C),,0(1),40,-,-,-,-,-,-,-,1,-,6.43
+404,Osama Hawsawi Saudi Arabia,38, Defender,,3,270,-,-,-,-,-,1.3,-,-,0.3,6.43
+405,Antonio Rukavina Serbia,38, D(LR),M(R),1(1),97,-,-,-,0.5,0.5,-,-,0.5,0.5,6.43
+406,Jonas Knudsen Denmark,30, D(CL),M(L),1,120,-,-,-,-,1,-,-,1,1,6.42
+407,Luis Ovalle Panama,34, Defender,,1,90,-,-,-,-,-,1,-,1,-,6.42
+408,Corentin Tolisso France,28, D(R),M(CR),2(3),195,-,1,0.4,0.4,0.2,1.2,-,0.4,0.8,6.42
+409,Birkir Bjarnason Iceland,34, M(CLR),,3,270,-,-,2.3,0.7,0.3,1.3,-,0.7,1.7,6.42
+410,Christian Cueva Peru,30, AM(CLR),,3,262,-,-,1,1.7,1,1.7,0.7,1.7,2.3,6.41
+411,Moon Seon-Min South Korea,30, M(R),,2,146,-,-,1,1,1,-,-,0.5,-,6.41
+412,Julian Brandt Germany,26, M(CLR),FW,0(3),19,-,-,1.3,-,0.7,0.3,-,0.3,0.3,6.41
+413,Manuel Fernandes Portugal,36, M(CL),,0(1),5,-,-,2,-,1,-,-,-,-,6.4
+414,Mousa Dembélé Belgium,35, M(CR),,2(2),178,-,-,-,-,-,0.3,-,1,0.5,6.4
+415,Alisson Brazil,29, GK,,5,450,-,-,-,-,-,-,-,-,0.2,6.4
+416,Jérôme Boateng Germany,34, D(CR),,2,172,-,-,1.5,0.5,0.5,1.5,-,1,0.5,6.4
+417,Koo Ja-Cheol South Korea,33, M(CLR),,2,128,-,-,0.5,-,0.5,1.5,-,3,1,6.39
+418,Takashi Usami Japan,30, AM(LR),,1(1),68,-,-,1.5,1,-,1.5,-,0.5,1.5,6.39
+419,Mohamed El Shenawy Egypt,33, GK,,2,180,-,-,-,-,-,-,-,-,-,6.39
+420,Tarek Hamed Egypt,33, DMC,,3,230,-,-,0.7,-,-,1,-,1,0.7,6.38
+421,Daler Kuzyaev Russia,29, D(R),M(CLR),2(3),304,-,-,0.4,0.2,0.4,0.4,-,1,1.6,6.38
+422,Filip Kostic Serbia,29, M(LR),FW,2(1),167,-,-,1,-,1.3,1,-,1.7,0.7,6.38
+423,Yassine Meriah Tunisia,29, D(C),,3,270,-,-,-,-,1,1.3,-,0.3,1.0,6.38
+424,Josh Risdon Australia,30, Defender,,3,270,-,-,0.3,-,1.3,0.3,0.3,0.7,1.7,6.37
+425,Go Yo-Han South Korea,34, Defender,,0(1),11,-,-,-,1,-,-,-,-,1.0,6.37
+426,Ousmane Dembélé France,25, AM(CLR),FW,2(2),166,-,-,0.8,0.5,0.5,0.3,-,1,1.3,6.37
+427,Anice Badri Tunisia,31, forward,,2(1),225,-,-,1,0.3,1,0.7,-,1,1.0,6.36
+428,Youssouf Sabaly Senegal,29, D(LR),M(R),3,254,-,-,0.7,0.7,1,0.7,-,0.3,1.0,6.36
+429,Andrew Nabbout Australia,29, forward,,2,139,-,-,-,0.5,0.5,0.5,-,1.5,2.0,6.36
+430,Adem Ljajic Serbia,30, AM(CLR),FW,2(1),170,-,-,0.3,1,1.3,-,-,1.3,1,6.35
+431,Yoel Bárcenas Panama,28, Forward,,3,222,-,-,2,1.7,0.7,1,0.7,-,3,6.35
+432,Tyronne Ebuehi Nigeria,26, D(LR),,0(1),45,-,-,-,2,-,-,-,1,1,6.35
+433,Yoshinori Muto Japan,30, FW,,1,82,-,-,2,-,-,-,-,-,2,6.35
+434,Yotún Peru,32, D(L),M(CLR),3,182,-,-,1,1,0.7,1.7,-,0.3,0.7,6.35
+435,Alberto Rodríguez Peru,38, DMC,,2,136,-,-,1,-,-,-,-,-,0.5,6.35
+436,Rafael Márquez Mexico,43, D(C),,1(2),84,-,-,-,0.3,0.3,-,-,-,-,6.34
+437,Eric Dier England,28, D(CR),DMC,2(4),249,-,-,0.8,-,0.7,0.7,-,0.2,0.3,6.33
+438,Thomas Vermaelen Belgium,36, D(CL),,1(2),132,-,-,-,-,-,0.3,-,-,0.3,6.33
+439,Yann Sommer Switzerland,33, GK,,4,360,-,-,-,-,0.3,-,-,-,-,6.33
+440,Bryan Ruíz Costa Rica,37, M(CLR),FW,3,270,-,-,0.7,0.7,2.3,2,0.3,4,1.3,6.33
+441,Iago Aspas Spain,35, AM(CR),FW,0(3),70,1,-,1.7,1.7,-,-,-,1,0.3,6.33
+442,Manuel da Costa Morocco,36, D(C),,2(1),188,-,-,0.7,-,-,-,-,-,0.7,6.32
+443,Tin Jedvaj Croatia,26, D(CLR),,1,90,-,-,-,-,-,-,-,-,2,6.32
+444,Manuel Neuer Germany,36, GK,,3,270,-,-,-,-,0.3,-,-,-,-,6.32
+445,Fedor Smolov Russia,32, AM(CL),FW,1(4),221,-,-,0.4,0.6,1.2,0.2,0.6,3.4,1.6,6.32
+446,Mame Diouf Senegal,34, M(LR),FW,1(1),66,-,-,0.5,-,-,-,1,1,2,6.32
+447,Karim El Ahmadi Morocco,37, DMC,,3,266,-,-,0.3,0.3,-,0.3,-,-,0.7,6.31
+448,Majid Hosseini Iran,26, D(C),,2(1),190,-,-,-,-,0.3,0.3,-,-,-,6.31
+449,Fernandinho Brazil,37, D(CR),DMC,1(4),156,-,-,0.6,1,-,0.4,-,0.4,0.4,6.31
+450,Motaz Hawsawi Saudi Arabia,30, Defender,,1,90,-,-,-,-,-,1,-,-,2,6.31
+451,Nicolás Tagliafico Argentina,30, D(CL),,4,350,-,-,0.8,1,0.5,1.8,-,-,0.5,6.31
+452,Syam Ben Youssef Tunisia,33, D(C),,2,131,-,-,-,-,1,0.5,-,0.5,-,6.31
+453,Khadim N'Diaye Senegal,37, Goalkeeper,,3,270,-,-,-,-,-,0.3,-,-,-,6.3
+454,Gelson Martins Portugal,27, M(LR),,0(1),31,-,-,-,1,1,1,-,1,2,6.3
+455,José Izquierdo Colombia,30, AM(L),,1,70,-,-,-,-,2,-,-,1,4,6.3
+456,Mohammed Kanno Saudi Arabia,27, Substitute,,0(1),16,-,-,1,-,-,-,-,-,-,6.3
+457,Marco Asensio Spain,26, AM(CLR),,1(2),130,-,-,0.7,0.3,0.7,0.3,-,1.3,-,6.3
+458,Marcus Rashford England,24, AM(CLR),FW,1(5),212,-,-,0.8,0.2,1.3,0.8,0.2,0.8,1.7,6.3
+459,Timo Werner Germany,26, AM(CLR),FW,3,266,-,-,2.3,1.7,0.7,1.3,1,2.3,2,6.3
+460,Cheikhou Kouyaté Senegal,32, D(CR),DMC,1(2),118,-,-,-,0.3,0.3,0.3,-,0.7,0.3,6.29
+461,Tim Cahill Australia,42, M(C),FW,0(1),37,-,-,2,-,-,1,-,-,2,6.29
+462,William Troost-Ekong Nigeria,29, D(C),,3,270,-,-,0.7,-,0.7,0.7,-,-,1,6.29
+463,Makoto Hasebe Japan,38, D(CR),M(CR),3(1),278,-,-,0.3,0.3,0.3,0.8,-,0.3,0.5,6.28
+464,Vladimir Granat Russia,35, D(CL),,0(1),76,-,-,-,-,-,1,-,-,-,6.28
+465,Johan Venegas Costa Rica,33, AM(CR),,2,150,-,-,-,0.5,0.5,2,0.5,2.5,2.5,6.28
+466,Fayçal Fajr Morocco,34, M(CLR),,0(2),31,-,1,-,0.5,-,-,-,-,-,6.28
+467,Odion Ighalo Nigeria,33, AM(C),FW,1(2),123,-,-,1.7,0.3,0.7,1.7,-,0.3,2.7,6.27
+468,Marvin Plattenhardt Germany,30, D(L),M(L),1,79,-,-,1,-,-,1,-,-,-,6.27
+469,Saîf-Eddine Khaoui Tunisia,27, AM(CR),,1,90,-,-,2,-,3,2,-,1,1,6.27
+470,Sebastian Rudy Germany,32, D(R),M(CR),1,31,-,-,1,-,-,-,-,1,-,6.27
+471,Blas Pérez Panama,41, FW,,2,163,-,-,0.5,1,0.5,0.5,0.5,-,0.5,6.27
+472,Cristian Rodríguez Uruguay,36, AM(CL),,1(4),165,-,-,0.8,0.2,0.2,0.4,-,1.2,1.2,6.26
+473,Nabil Fekir France,29, AM(CLR),FW,0(6),69,-,-,0.7,-,0.7,1,-,0.3,0.5,6.25
+474,Emil Krafth Sweden,28, D(CR),,1(1),93,-,-,-,-,1,-,-,0.5,-,6.24
+475,Martin Braithwaite Denmark,31, AM(CLR),FW,2(2),250,-,-,1,-,0.8,0.3,0.3,0.5,2.8,6.24
+476,Ferjani Sassi Tunisia,30, DMC,,3,195,1,-,1.7,1,0.3,0.3,-,0.7,0.3,6.24
+477,Danny Rose England,32, D(L),M(L),2(3),205,-,-,0.2,0.4,0.6,1.4,0.2,0.6,0.4,6.24
+478,Shinji Okazaki Japan,36, AM(CLR),FW,1(2),68,-,-,0.3,-,0.3,0.7,-,2,1,6.24
+479,Emil Hallfredsson Iceland,38, AM(C),,2,180,-,-,0.5,0.5,1.5,3,-,1,0.5,6.24
+480,Abel Aguilar Colombia,37, M(C),,1,32,-,-,-,-,-,-,-,-,-,6.23
+481,Ayoub El Kaabi Morocco,29, AM(LR),FW,1(1),98,-,-,0.5,0.5,-,0.5,-,-,0.5,6.23
+482,Lucas Biglia Argentina,36, DMC,,1,54,-,-,2,-,-,1,-,1,1,6.23
+483,Lucas Vázquez Spain,31, D(R),M(R),1(1),84,-,-,-,-,0.5,1.5,-,1,1,6.23
+484,Rúrik Gíslason Iceland,34, M(CLR),FW,1(1),117,-,-,0.5,0.5,-,2,-,0.5,1.5,6.23
+485,Adrien Silva Portugal,33, M(C),,2(1),156,-,1,0.7,0.7,-,0.3,-,1,1,6.23
+486,Jefferson Lerma Colombia,27, D(R),DMC,2(2),176,-,-,0.3,0.5,-,0.8,-,0.3,0.3,6.22
+487,Jonathan dos Santos Mexico,32, M(CR),,0(1),35,-,-,-,-,-,-,-,1,1,6.22
+488,Lukasz Teodorczyk Poland,31, FW,,0(2),29,-,-,0.5,0.5,0.5,-,-,0.5,1,6.22
+489,Marcos Acuña Argentina,30, D(L),M(CL),1,90,-,-,1,1,1,3,-,2,1,6.22

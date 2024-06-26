@@ -1,0 +1,68 @@
+Column1,Unnamed: 0,name,age,position1,position2,Apps,Mins,Goals,Assists,SpG,KeyP,Drb,Rating,WC_Rating,Country
+0,0,Robert Lewandowski,34, FW,,34,2952,35,3,4.7,1.1,1.4,7.89,0,Poland
+1,1,Christopher Nkunku,24, M(CLR),FW,31(3),2735,20,13,2.4,1.9,1.9,7.64,0,France
+6,6,Jonas Wind,23, AM(C),FW,14,1187,5,2,2.6,1.1,0.7,7.31,0,Denmark
+7,7,Serge Gnabry,27, AM(CLR),FW,25(9),2192,14,5,2,1.4,1.9,7.3,0,Germany
+10,10,Kingsley Coman,26, M(LR),FW,16(5),1369,6,2,2.2,1.1,2.3,7.13,0,France
+11,11,Julian Brandt,26, M(CLR),FW,22(9),2083,9,8,1.1,1.4,1.2,7.12,0,Germany
+23,23,Breel Embolo,25, AM(CR),FW,23(5),2076,8,3,1.6,1.2,1.5,6.91,0,Switzerland
+36,36,Wout Weghorst,30, FW,,17(1),1552,6,1,2.1,0.9,0.4,6.76,0,Netherlands
+37,37,Jesper Lindstr©ªm,22, AM(C),FW,26(3),1996,5,4,1.9,1.6,1.1,6.76,0,Denmark
+39,39,Thorgan Hazard,29, M(CLR),FW,14(9),1337,4,1,1,1,1,6.73,0,Belgium
+40,40,Dani Olmo,24, AM(CLR),FW,7(12),740,3,3,1.2,0.6,1.3,6.71,0,Spain
+49,49,Daichi Kamada,26, AM(CLR),FW,23(9),2146,4,3,1.1,1,0.9,6.63,0,Japan
+74,74,Takuma Asano,27, AM(CLR),FW,20(7),1618,3,4,1.2,0.7,0.7,6.45,0,Japan
+78,78,Kevin De Bruyne,31, M(CLR),FW,25(5),2205,15,8,2.6,2.9,1,7.63,0,Belgium
+80,80,Son Heung-Min,30, M(CLR),FW,35,3021,23,7,2.5,2.1,1.5,7.51,0,South Korea
+81,81,Harry Kane,29, AM(C),FW,36(1),3232,17,9,3.6,1.4,1.5,7.45,0,England
+84,84,Phil Foden,22, AM(CLR),FW,24(4),2133,9,5,2,1.4,1.3,7.29,0,England
+86,86,Bernardo Silva,28, M(CLR),FW,33(2),2861,8,4,1.3,1.7,1.5,7.27,0,Portugal
+87,87,Raheem Sterling,27, M(CLR),FW,23(7),2127,13,5,1.9,1.4,1.8,7.2,0,England
+88,88,Gabriel Jesus,25, AM(LR),FW,21(7),1880,8,8,2.3,1.4,1.6,7.19,0,Brazil
+90,90,Jack Grealish,26, AM(CL),FW,22(4),1917,3,3,1.7,2,1.5,7.16,0,England
+92,92,Cristiano Ronaldo,37, M(L),FW,27(3),2459,18,3,3.7,0.9,0.7,7.11,0,Portugal
+94,94,Conor Gallagher,22, AM(C),,33(1),2851,8,3,1.5,1.1,1.3,7.09,0,England
+96,96,James Maddison,25, AM(CLR),,28(7),2468,12,8,2.1,1.4,0.9,7.06,0,England
+100,100,Raphinha,25, AM(LR),FW,34(1),2923,11,3,2.5,1.9,1.8,6.96,0,Brazil
+101,101,Richarlison,25, AM(CLR),FW,28(2),2528,10,5,2.4,1,1.3,6.96,0,Brazil
+108,108,Leandro Trossard,27, M(CLR),FW,32(2),2812,8,3,2.2,1.4,1.6,6.9,0,Belgium
+112,112,Gabriel Martinelli,21, AM(L),FW,21(8),1866,6,6,1.8,1.2,1.6,6.86,0,Brazil
+113,113,Kai Havertz,23, M(CR),FW,22(7),1816,8,3,1.9,0.7,0.6,6.85,0,Germany
+117,117,Romelu Lukaku,29, AM(R),FW,16(10),1586,8,0,1.7,0.9,0.5,6.82,0,Belgium
+124,124,Alexis Mac Allister,23, M(CL),FW,22(11),2118,5,2,1.8,0.9,0.6,6.75,0,Argentina
+127,127,Bryan Mbeumo,23, AM(LR),FW,34(1),2916,4,7,2.2,1,1.1,6.74,0,Cameroon
+135,135,Jordan Ayew,30, AM(CLR),FW,23(8),2024,3,3,1.1,0.7,1.1,6.68,0,Ghana
+136,136,Christian Pulisic,23, M(CLR),FW,13(9),1286,6,2,1.3,0.7,1.1,6.67,0,United States
+147,147,Wout Weghorst,30, FW,,17(3),1457,2,3,1.5,0.7,0.7,6.62,0,Netherlands
+154,154,Callum Wilson,30, FW,,16(2),1395,8,0,1.9,0.6,0.6,6.57,0,England
+157,157,Karim Benzema,34, FW,,31(1),2600,27,12,4,1.9,1.1,7.69,0,France
+166,166,Pedri,19, AM(C),,10(2),891,3,1,1,1.3,1.3,7.12,0,Spain
+167,167,Memphis Depay,28, AM(CL),FW,20(8),1850,12,2,2.2,1.6,1.6,7.1,0,Netherlands
+168,168,Yannick Carrasco,28, M(CLR),FW,28(6),2594,6,6,1.5,1.6,2.6,7.08,0,Belgium
+180,180,Marco Asensio,26, AM(CLR),,19(12),1729,10,0,2.1,1,0.9,6.89,0,Spain
+181,181,Ferran Torres,22, AM(LR),FW,17(1),1418,4,4,2.9,0.7,0.7,6.88,0,Spain
+188,188,Antoine Griezmann,31, AM(CLR),FW,21(5),1709,3,4,1.7,1,0.7,6.8,0,France
+190,190,Gavi,18, AM(CL),,28(6),2331,2,5,0.9,0.6,1.6,6.79,0,Spain
+193,193,Ante Budimir,31, FW,,20(8),1741,8,2,1.6,0.4,0.4,6.76,0,Croatia
+212,212,Rodrygo,21, AM(CLR),,17(16),1528,4,4,1,0.8,0.8,6.66,0,Brazil
+219,219,Eden Hazard,31, M(CLR),FW,7(11),714,0,1,0.7,1.5,1.4,6.59,0,Belgium
+222,222,Youssef En-Nesyri,25, FW,,15(8),1282,5,1,1.6,0.3,0.2,6.58,0,Morocco
+230,230,Luuk de Jong,32, AM(C),FW,6(15),643,6,0,1.1,0.2,0.1,6.54,0,Netherlands
+231,231,Takefusa Kubo,21, AM(CLR),FW,17(11),1610,1,0,1.7,1.1,1.4,6.54,0,Japan
+244,244,Rodri,22, AM(R),,10(11),882,1,2,0.7,0.8,0.8,6.47,0,Spain
+248,248,Lionel Messi,35, AM(CR),FW,24(2),2153,6,14,3.4,2.4,2.5,7.77,0,Argentina
+249,249,Neymar,30, AM(CLR),FW,22,1861,13,6,2.5,2.8,2.6,7.65,0,Brazil
+252,252,Sofiane Boufal,28, AM(CLR),FW,28(1),2345,8,4,2.2,1.9,3.1,7.27,0,Morocco
+260,260,Lovro Majer,24, AM(CR),,21(8),1841,6,8,1.6,1.6,1,7.06,0,Croatia
+267,267,Kamaldeen Sulemana,20, AM(L),,11(9),1018,4,2,1.3,1.1,2.7,7,0,Ghana
+286,286,Amine Harit,25, AM(CLR),FW,12(11),1168,4,4,0.7,1.1,1.1,6.73,0,Morocco
+302,302,Arkadiusz Milik,28, AM(C),FW,15(8),1419,7,2,2.3,0.7,0.1,6.58,0,Poland
+305,305,Kasper Dolberg,24, FW,,20(7),1503,6,2,1.5,0.6,0.4,6.57,0,Denmark
+309,309,Hwang Ui-Jo,30, AM(CLR),FW,29(3),2526,11,2,1.7,0.4,0.3,6.54,0,South Korea
+319,319,Timothy Weah,22, AM(LR),FW,17(12),1620,3,4,1.2,0.9,0.7,6.5,0,United States
+330,330,Paulo Dybala,28, AM(CR),FW,26(3),2074,10,5,3.4,1.3,1.6,7.22,0,Argentina
+342,342,Abdelhamid Sabiri,25, AM(CL),FW,9(5),895,3,2,1.1,0.9,1.2,7,0,Morocco
+344,344,Olivier Giroud,35, FW,,22(7),1905,11,3,2.2,0.9,0.1,6.99,0,France
+351,351,Pedro,35, M(CLR),FW,25(7),2043,9,5,1.1,0.9,1,6.89,0,Brazil
+355,355,Dries Mertens,35, AM(CLR),FW,16(14),1389,11,1,1.5,1.1,0.6,6.86,0,Belgium
+357,357,Hirving Lozano,27, AM(LR),FW,20(10),1622,5,5,1.7,0.9,1,6.85,0,Mexico
